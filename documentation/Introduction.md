@@ -1,6 +1,7 @@
 # Introduction
 
 https://www.gitbook.com/book/smartarduino/user-manual-for-esp-12e-devkit/details
+http://www.instructables.com/id/ESP8266-HTTP-IO-Server/
 
 # ESP8266
 
