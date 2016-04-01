@@ -150,6 +150,7 @@ http://www.instructables.com/id/ESP8266-HTTP-IO-Server/
 > IoT platform for Makers
 
 - http://jumpwire.io/
+- https://github.com/knolleary/pubsubclient/blob/master/examples/mqtt_esp8266/mqtt_esp8266.ino
 - 
 
 ### ESPlorer
