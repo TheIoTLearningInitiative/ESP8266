@@ -2,5 +2,5 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
-* Customization
+* [Customization](documentation/Customization.md)
 
