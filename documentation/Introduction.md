@@ -279,6 +279,7 @@ Chip ID: 0x00dc273f
 
 - [PlatformIO](http://platformio.org/get-started)
 
+```sh
 root@jessie:/home/xe1gyq/esptool# pip install -U platformio
 Collecting platformio
   Downloading platformio-2.8.6-py27-none-any.whl (165kB)
@@ -327,6 +328,8 @@ platformio.ini - Project Configuration File. |-> PLEASE EDIT ME <-|
 src - Put your source files here
 lib - Put here project specific (private) libraries
 Do you want to continue? [y/N]: y
+
+```
 
 ## MQTT
 
