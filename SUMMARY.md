@@ -4,5 +4,5 @@
 * [Introduction](documentation/Introduction.md)
 * [Customization](documentation/Customization.md)
 * [PlatformIO](documentation/PlatformIo.md)
-* Structure IoT Development Platform
+* [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
 
