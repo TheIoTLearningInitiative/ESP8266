@@ -385,7 +385,7 @@ Installing library [ 89 ]:
 Downloading  [####################################]  100%
 Unpacking  [####################################]  100%
 The library #89 'PubSubClient' has been successfully installed!
-xe1gyq@jessie:~/nodemcu$ platformio run --target upload
+xe1gyq@jessie:~/nodemcu$ vi mqtt.ino
 ```
 
 ```c
@@ -514,6 +514,10 @@ void loop() {
     client.publish("outTopic", msg);
   }
 }
+```
+
+```sh
+xe1gyq@jessie:~/nodemcu$ platformio run --target upload
 ```
 
 - https://atom.io/packages/platomformio
