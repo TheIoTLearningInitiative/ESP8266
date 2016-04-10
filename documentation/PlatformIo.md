@@ -278,7 +278,7 @@ Found 6 libraries:
 [ 227 ] Esp8266Configuration arduino, espressif    "Karsten Kukat": store and read configuration from SPIFFS (wifi ap, wifi station, mqtt ..)
 xe1gyq@jessie:~/nodemcu$ platformio lib search -f mbed
 Found 85 libraries:
-
+..
 ```
 
 - https://atom.io/packages/platomformio
