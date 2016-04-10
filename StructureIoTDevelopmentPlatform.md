@@ -17,3 +17,5 @@ Structure IoT Development Platform
   - Create Application
   - Name: MyNodeMCU
   - + New Application
+
+> DEVICES, DEVICES, DEVICES! This is your application’s device list. From here you can view and filter all of your various things. Add a device now and start building!
