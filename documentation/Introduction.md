@@ -42,7 +42,7 @@ Introduction
 
 ## Build
 
-- [](http://nodemcu-build.com/)
+> NodeMCU Custom Builds. You customize your NodeMCU firmware and we build it. Just for you. [NodeMCU Custom Builds](http://nodemcu-build.com/)
 
 ## ESP Open SDK 
 
