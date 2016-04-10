@@ -5,7 +5,7 @@ Introduction
 
 ## NodeMCU
 
-> Connect Things EASY. An open-source firmware and development kit that helps you to prototype your IOT product within a few Lua script lines
+> Connect Things EASY. An open-source firmware and development kit that helps you to prototype your IOT product within a few Lua script lines. [NodeMCU Homepage](http://nodemcu.com/index_en.html)
 
 
 - [ESP8266 Wiki](https://github.com/esp8266/esp8266-wiki/wiki)
