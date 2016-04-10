@@ -6,6 +6,7 @@ PlatformIO
 > PlatformIO is an open source ecosystem for IoT development. Cross-platform build system. Continuous and IDE integration. Arduino and MBED compatible
 
 - [PlatformIO](http://platformio.org/get-started)
+- [PlatformIO Documentation](http://docs.platformio.org/en/latest/what-is-platformio.html)
 
 ```sh
 root@jessie:/home/xe1gyq/esptool# pip install -U platformio
