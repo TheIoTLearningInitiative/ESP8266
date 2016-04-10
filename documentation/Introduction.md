@@ -129,6 +129,17 @@ Took 1.64s to erase flash block
 Wrote 477184 bytes at 0x00002000 in 46.1 seconds (82.8 kbit/s)...
 
 Leaving...
+root@jessie:/home/xe1gyq/esptool# python esptool.py read_mac
+Connecting...
+MAC: 18:fe:34:dc:27:3f
+root@jessie:/home/xe1gyq/esptool# python esptool.py flash_id
+Connecting...
+Manufacturer: e0
+Device: 4016
+root@jessie:/home/xe1gyq/esptool# python esptool.py chip_id
+Connecting...
+Chip ID: 0x00dc273f
+
 ```
 
 ## ESP Open SDK 
