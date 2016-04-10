@@ -122,6 +122,7 @@ Successfully built pyserial
 Installing collected packages: pyserial
 Successfully installed pyserial-3.0.1
 root@jessie:/home/xe1gyq/esptool# 
+root@jessie:/home/xe1gyq/esptool# python esptool.py write_flash 0x2000 nodemcu-master-14-modules-2016-04-10-05-04-51-float.bin 
 ```
 
 ## ESP Open SDK 
