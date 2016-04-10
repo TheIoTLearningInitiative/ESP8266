@@ -122,7 +122,13 @@ Successfully built pyserial
 Installing collected packages: pyserial
 Successfully installed pyserial-3.0.1
 root@jessie:/home/xe1gyq/esptool# 
-root@jessie:/home/xe1gyq/esptool# python esptool.py write_flash 0x2000 nodemcu-master-14-modules-2016-04-10-05-04-51-float.bin 
+root@jessie:/home/xe1gyq/esptool# python esptool.py write_flash 0x2000 nodemcu-master-14-modules-2016-04-10-05-04-51-integer.bin 
+Connecting...
+Erasing flash...
+Took 1.64s to erase flash block
+Wrote 477184 bytes at 0x00002000 in 46.1 seconds (82.8 kbit/s)...
+
+Leaving...
 ```
 
 ## ESP Open SDK 
