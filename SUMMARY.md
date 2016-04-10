@@ -5,5 +5,5 @@
 * [Customization](documentation/Customization.md)
 * [PlatformIO](documentation/PlatformIo.md)
 * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
-* Projects
+* [Projects](documentation/Projects.md)
 
