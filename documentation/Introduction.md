@@ -9,6 +9,7 @@ Introduction
 - Olimex IoT Firmware
 - https://github.com/squix78/esp8266-projects/blob/master/arduino-ide/thingspeak-data-logger/thingspeak-data-logger.ino
 - http://frightanic.com/computers/build-nodemcu-firmware-for-the-esp8266/
+- http://www.allaboutcircuits.com/projects/guts-of-the-iot-part-1-building-nodemcu-from-source-for-the-esp8266/
 
 # ESP8266
 
