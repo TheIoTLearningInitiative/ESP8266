@@ -13,6 +13,8 @@ Structure IoT Development Platform
 
 - [Welcome](https://app.getstructure.io/#/welcome)
 
+> CREATE APPLICATION. Devices are registered, and workflows are created, all within the context of an application. First, let’s name your new application.
+
 - Applications
   - Create Application
   - Name: MyNodeMCU
