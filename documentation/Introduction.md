@@ -3,6 +3,11 @@ Introduction
 
 
 
+## NodeMCU
+
+> Connect Things EASY. An open-source firmware and development kit that helps you to prototype your IOT product within a few Lua script lines
+
+
 - [ESP8266 Wiki](https://github.com/esp8266/esp8266-wiki/wiki)
 - https://www.gitbook.com/book/smartarduino/user-manual-for-esp-12e-devkit/details
 - http://www.instructables.com/id/ESP8266-HTTP-IO-Server/
