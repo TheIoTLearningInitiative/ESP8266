@@ -1,4 +1,4 @@
-<h1><center>ESP8266</center></h1>
+<h1><center>ESP8266/ESP-12E</center></h1>
 
 <center><img src="http://www.ti.com/lsds/media/images/wireless_connectivity/50BillionThings.png"></center>
 
