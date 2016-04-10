@@ -59,7 +59,7 @@ Useful commands:
 xe1gyq@jessie:~/nodemcu$ vi src/blink.ino
 ```
 
-```sh
+```c
 /**
  * Blink
  * Turns on an LED on for one second,
