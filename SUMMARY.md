@@ -3,5 +3,5 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * [Customization](documentation/Customization.md)
-* PlatformIO
+* [PlatformIO](documentation/PlatformIo.md)
 
