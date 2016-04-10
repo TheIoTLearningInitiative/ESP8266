@@ -328,6 +328,7 @@ Useful commands:
 `platformio run --target upload` or `platformio run -t upload` - upload firmware to embedded board
 `platformio run --target clean` - clean project (remove compiled files)
 `platformio run --help` - additional information
+xe1gyq@jessie:~/nodemcu$ vi src/blink.ino
 ```
 
 ```sh
