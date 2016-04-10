@@ -375,16 +375,17 @@ xe1gyq@jessie:~/nodemcu$
 ```
 
 ```sh
-root@jessie:/home/xe1gyq/nodemcu# platformio lib install 6 
+xe1gyq@jessie:~/nodemcu$ platformio lib install 6 
 Installing library [ 6 ]:
 Downloading  [####################################]  100%
 Unpacking  [####################################]  100%
 The library #6 'XBee' has been successfully installed!
-root@jessie:/home/xe1gyq/nodemcu# platformio lib install 89
+xe1gyq@jessie:~/nodemcu$ platformio lib install 89
 Installing library [ 89 ]:
 Downloading  [####################################]  100%
 Unpacking  [####################################]  100%
 The library #89 'PubSubClient' has been successfully installed!
+xe1gyq@jessie:~/nodemcu$ platformio run
 ```
 
 
