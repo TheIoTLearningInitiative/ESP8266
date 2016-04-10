@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * Hardware
-   * Microcontroller
+   * [Microcontroller](documentation/Microcontroller.md)
 * [Customization](documentation/Customization.md)
 * [PlatformIO](documentation/PlatformIo.md)
 * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
