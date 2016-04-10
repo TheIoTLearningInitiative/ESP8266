@@ -42,7 +42,9 @@ Introduction
 
 ## Build
 
-> NodeMCU Custom Builds. You customize your NodeMCU firmware and we build it. Just for you. 
+### NodeMCU Custom Builds.
+
+> You customize your NodeMCU firmware and we build it. Just for you. 
 
 - [NodeMCU Custom Builds Homepage](http://nodemcu-build.com/)
 - [Docker NodeMCU build](https://hub.docker.com/r/marcelstoer/nodemcu-build/)
