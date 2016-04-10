@@ -248,5 +248,24 @@ void loop() {
 xe1gyq@jessie:~/nodemcu$ platformio run --target upload
 ```
 
+### PlatformIO Lib
+
+```sh
+xe1gyq@jessie:~/nodemcu$ platformio lib 
+Usage: platformio lib [OPTIONS] COMMAND [ARGS]...
+
+Options:
+  -h, --help  Show this message and exit.
+
+Commands:
+  install    Install library
+  list       List installed libraries
+  register   Register new library
+  search     Search for library
+  show       Show details about installed library
+  uninstall  Uninstall libraries
+  update     Update installed libraries
+```
+
 - https://atom.io/packages/platomformio
 
