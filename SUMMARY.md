@@ -6,5 +6,5 @@
 * [PlatformIO](documentation/PlatformIo.md)
 * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
 * [Projects](documentation/Projects.md)
-* Blynk
+* [Blynk](documentation/Blynk.md)
 
