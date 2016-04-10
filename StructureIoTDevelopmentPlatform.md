@@ -9,3 +9,10 @@ Structure IoT Development Platform
 [ 253 ] Structure        arduino, atmelavr, atmelsam, timsp430, titiva, teensy, freescalekinetis, ststm32, nordicnrf51, nxplpc, espressif, siliconlabsefm32, linux_arm, native "Structure": Arduino SDK for connecting embedded devices to the Structure IoT developer platform
 ```
 
+## Welcome
+
+- [Welcome](https://app.getstructure.io/#/welcome)
+
+- Applications
+  - Create Application
+  - Name: MyNodeMCU
