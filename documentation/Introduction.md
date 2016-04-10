@@ -42,7 +42,7 @@ Introduction
 
 ## Build
 
-### NodeMCU Custom Builds.
+### NodeMCU Custom Builds
 
 > You customize your NodeMCU firmware and we build it. Just for you. 
 
