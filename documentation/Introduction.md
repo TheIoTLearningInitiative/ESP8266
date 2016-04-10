@@ -8,6 +8,7 @@ Introduction
 - http://www.instructables.com/id/ESP8266-HTTP-IO-Server/
 - Olimex IoT Firmware
 - https://github.com/squix78/esp8266-projects/blob/master/arduino-ide/thingspeak-data-logger/thingspeak-data-logger.ino
+- http://frightanic.com/computers/build-nodemcu-firmware-for-the-esp8266/
 
 # ESP8266
 
