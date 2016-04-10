@@ -305,25 +305,18 @@ Installing collected packages: click, colorama, bottle, lockfile, platformio
     Uninstalling colorama-0.3.6:
       Successfully uninstalled colorama-0.3.6
 Successfully installed bottle-0.12.9 click-5.1 colorama-0.3.7 lockfile-0.12.2 platformio-2.8.6
-root@jessie:/home/xe1gyq/esptool# platformio init --board=nodemcu ^C
-root@jessie:/home/xe1gyq/esptool# exit
-exit
-xe1gyq@jessie:~/esptool$ platformio init --board=nodemcu 
+```
 
-********************************************************************************
-If you like PlatformIO, please:
-- follow us on Twitter to stay up-to-date on the latest project news > https://twitter.com/PlatformIO_Org
-- star it on GitHub > https://github.com/platformio/platformio
-- try PlatformIO IDE for IoT development > http://platformio.org/platformio-ide
-- donate to keep PlatformIO alive! > http://platformio.org/donate
-********************************************************************************
+```sh
+xe1gyq@jessie:~$ mkdir nodemcu
+xe1gyq@jessie:~$ cd nodemcu/
+xe1gyq@jessie:~/nodemcu$ platformio init --board=nodemcu
 
-
-The current working directory /home/xe1gyq/esptool will be used for project.
+The current working directory /home/xe1gyq/nodemcu will be used for project.
 You can specify another project directory via
 `platformio init -d %PATH_TO_THE_PROJECT_DIR%` command.
 
-The next files/directories will be created in /home/xe1gyq/esptool
+The next files/directories will be created in /home/xe1gyq/nodemcu
 platformio.ini - Project Configuration File. |-> PLEASE EDIT ME <-|
 src - Put your source files here
 lib - Put here project specific (private) libraries
@@ -335,7 +328,6 @@ Useful commands:
 `platformio run --target upload` or `platformio run -t upload` - upload firmware to embedded board
 `platformio run --target clean` - clean project (remove compiled files)
 `platformio run --help` - additional information
-xe1gyq@jessie:~/esptool$ 
 ```
 
 ```sh
