@@ -15,4 +15,19 @@ Installing library [ 415 ]:
 Downloading  [####################################]  100%
 Unpacking  [####################################]  100%
 The library #415 'Blynk' has been successfully installed!
+xe1gyq@jessie:~/nodemcu$ vi src/blynk.ino
+```
+
+```sh
+xe1gyq@jessie:~/nodemcu$ platformio run --target upload
+espcomm_send_command: receiving 2 bytes of data
+writing flash
+..............................................................................................................................................................................................................................................
+starting app without reboot
+espcomm_send_command: sending command header
+espcomm_send_command: sending command payload
+espcomm_send_command: receiving 2 bytes of data
+closing bootloader
+============================================== [SUCCESS] Took 34.32 seconds ==============================================
+xe1gyq@jessie:~/nodemcu$ 
 ```
