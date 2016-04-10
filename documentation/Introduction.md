@@ -329,6 +329,14 @@ src - Put your source files here
 lib - Put here project specific (private) libraries
 Do you want to continue? [y/N]: y
 
+Project has been successfully initialized!
+Useful commands:
+`platformio run` - process/build project from the current directory
+`platformio run --target upload` or `platformio run -t upload` - upload firmware to embedded board
+`platformio run --target clean` - clean project (remove compiled files)
+`platformio run --help` - additional information
+xe1gyq@jessie:~/esptool$ 
+
 ```
 
 ## MQTT
