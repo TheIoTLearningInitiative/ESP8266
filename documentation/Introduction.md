@@ -7,6 +7,7 @@ Introduction
 
 > Connect Things EASY. An open-source firmware and development kit that helps you to prototype your IOT product within a few Lua script lines. [NodeMCU Homepage](http://nodemcu.com/index_en.html)
 
+- [NodeMCU Lua based interactive firmware for mcu like esp8266](https://github.com/nodemcu/nodemcu-firmware)
 
 - [ESP8266 Wiki](https://github.com/esp8266/esp8266-wiki/wiki)
 - https://www.gitbook.com/book/smartarduino/user-manual-for-esp-12e-devkit/details
