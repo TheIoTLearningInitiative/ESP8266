@@ -168,4 +168,4 @@ Introduction
 
 ## Platform IO
 
-(http://platformio.org/get-started)
+- [](http://platformio.org/get-started)
