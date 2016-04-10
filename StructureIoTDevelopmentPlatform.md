@@ -16,3 +16,4 @@ Structure IoT Development Platform
 - Applications
   - Create Application
   - Name: MyNodeMCU
+  - + New Application
