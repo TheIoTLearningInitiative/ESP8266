@@ -388,10 +388,7 @@ The library #89 'PubSubClient' has been successfully installed!
 xe1gyq@jessie:~/nodemcu$ platformio run --target upload
 ```
 
-
-
 - https://atom.io/packages/platomformio
-- 
 
 ## MQTT
 
