@@ -279,6 +279,55 @@ Chip ID: 0x00dc273f
 
 - [PlatformIO](http://platformio.org/get-started)
 
+root@jessie:/home/xe1gyq/esptool# pip install -U platformio
+Collecting platformio
+  Downloading platformio-2.8.6-py27-none-any.whl (165kB)
+    100% |████████████████████████████████| 174kB 1.0MB/s 
+Collecting click<6,>=3.2 (from platformio)
+  Downloading click-5.1-py2.py3-none-any.whl (65kB)
+    100% |████████████████████████████████| 71kB 114kB/s 
+Requirement already up-to-date: requests<3,>=2.4.0 in /usr/local/lib/python2.7/dist-packages (from platformio)
+Requirement already up-to-date: pyserial<4 in /usr/local/lib/python2.7/dist-packages (from platformio)
+Collecting colorama (from platformio)
+  Downloading colorama-0.3.7-py2.py3-none-any.whl
+Collecting bottle<0.13 (from platformio)
+  Downloading bottle-0.12.9.tar.gz (69kB)
+    100% |████████████████████████████████| 71kB 108kB/s 
+Collecting lockfile<0.13,>=0.9.1 (from platformio)
+  Downloading lockfile-0.12.2-py2.py3-none-any.whl
+Building wheels for collected packages: bottle
+  Running setup.py bdist_wheel for bottle ... done
+  Stored in directory: /root/.cache/pip/wheels/0f/bd/f7/21e856551fa937e3c8a9d9592fd74a50714af336b8ee4f42c7
+Successfully built bottle
+Installing collected packages: click, colorama, bottle, lockfile, platformio
+  Found existing installation: colorama 0.3.6
+    Uninstalling colorama-0.3.6:
+      Successfully uninstalled colorama-0.3.6
+Successfully installed bottle-0.12.9 click-5.1 colorama-0.3.7 lockfile-0.12.2 platformio-2.8.6
+root@jessie:/home/xe1gyq/esptool# platformio init --board=nodemcu ^C
+root@jessie:/home/xe1gyq/esptool# exit
+exit
+xe1gyq@jessie:~/esptool$ platformio init --board=nodemcu 
+
+********************************************************************************
+If you like PlatformIO, please:
+- follow us on Twitter to stay up-to-date on the latest project news > https://twitter.com/PlatformIO_Org
+- star it on GitHub > https://github.com/platformio/platformio
+- try PlatformIO IDE for IoT development > http://platformio.org/platformio-ide
+- donate to keep PlatformIO alive! > http://platformio.org/donate
+********************************************************************************
+
+
+The current working directory /home/xe1gyq/esptool will be used for project.
+You can specify another project directory via
+`platformio init -d %PATH_TO_THE_PROJECT_DIR%` command.
+
+The next files/directories will be created in /home/xe1gyq/esptool
+platformio.ini - Project Configuration File. |-> PLEASE EDIT ME <-|
+src - Put your source files here
+lib - Put here project specific (private) libraries
+Do you want to continue? [y/N]: y
+
 ## MQTT
 
 http://tuanpm.net/rock-solid-esp8266-wifi-mqtt-restful-client-for-arduino/
