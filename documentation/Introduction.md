@@ -171,3 +171,7 @@ Introduction
 > PlatformIO is an open source ecosystem for IoT development. Cross-platform build system. Continuous and IDE integration. Arduino and MBED compatible
 
 - [PlatformIO](http://platformio.org/get-started)
+
+## MQTT
+
+http://tuanpm.net/rock-solid-esp8266-wifi-mqtt-restful-client-for-arduino/
