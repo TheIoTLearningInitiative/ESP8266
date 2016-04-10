@@ -50,6 +50,21 @@ Introduction
 - [NodeMCU Custom Builds Homepage](http://nodemcu-build.com/)
 - [Docker NodeMCU build](https://hub.docker.com/r/marcelstoer/nodemcu-build/)
 
+```sh
+xe1gyq@jessie:~$ git clone https://github.com/themadinventor/esptool.git
+Cloning into 'esptool'...
+remote: Counting objects: 385, done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 385 (delta 0), reused 0 (delta 0), pack-reused 382
+Receiving objects: 100% (385/385), 152.05 KiB | 0 bytes/s, done.
+Resolving deltas: 100% (211/211), done.
+Checking connectivity... done.
+xe1gyq@jessie:~$ cd esptool/
+xe1gyq@jessie:~/esptool$ ls
+esptool.py  LICENSE  MANIFEST.in  README.md  setup.py
+xe1gyq@jessie:~/esptool$ 
+```
+
 ## ESP Open SDK 
 
 > Free and open (as much as possible) integrated SDK for ESP8266 chips
