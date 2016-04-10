@@ -279,7 +279,14 @@ Found 6 libraries:
 [ 227 ] Esp8266Configuration arduino, espressif    "Karsten Kukat": store and read configuration from SPIFFS (wifi ap, wifi station, mqtt ..)
 xe1gyq@jessie:~/nodemcu$ platformio lib search -f mbed
 Found 85 libraries:
-..
+...
+xe1gyq@jessie:~/nodemcu$ platformio lib search -p espressif
+Found 73 libraries:
+
+[ ID  ] Name             Compatibility         "Authors": Description
+--------------------------------------------------------------------------------
+[ 257 ] Adafruit-PCD8544 arduino, espressif    "WereCatf": Espressif ESP8266 port of the Adafruit PCD8544 library
+
 ```
 
 - https://atom.io/packages/platomformio
