@@ -9,4 +9,5 @@ The ESP8266 is a low-cost Wi-Fi chip with full TCP/IP stack and microcontroller 
 - [ESP8266 Wiki](https://github.com/esp8266/esp8266-wiki/wiki)
 - [ESP8266EX Datasheet](https://www.adafruit.com/images/product-files/2471/0A-ESP8266__Datasheet__EN_v4.3.pdf)
 - [ESP8266 Datasheet](https://www.adafruit.com/datasheets/ESP8266_Specifications_English.pdf)
+- [ESP8266 Graphical Datasheet](https://cdn.sparkfun.com/datasheets/Wireless/WiFi/ESP8266ModuleV1.pdf)
 - [Nurdspace ESP8266](https://nurdspace.nl/ESP8266)
