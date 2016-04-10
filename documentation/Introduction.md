@@ -166,6 +166,8 @@ Introduction
 - https://github.com/4refr0nt/ESPlorer
 - http://randomnerdtutorials.com/download/
 
-## Platform IO
+## PlatformIO
 
-- [](http://platformio.org/get-started)
+> PlatformIO is an open source ecosystem for IoT development. Cross-platform build system. Continuous and IDE integration. Arduino and MBED compatible
+
+- [PlatformIO](http://platformio.org/get-started)
