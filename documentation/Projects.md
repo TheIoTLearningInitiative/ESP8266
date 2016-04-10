@@ -14,6 +14,7 @@ Projects
 [1092 ] Adafruit-MQTT    arduino, atmelavr, espressif "Adafruit Industries": MQTT library that supports the CC3000, FONA, ESP8266, Yun, and generic Arduino Client hardware.
 [ 578 ] Sensors          arduino, mbed, wiringpi, atmelavr, teensy, espressif, linux_arm "James Smith": Use I2C-connected sensors like accelerometers, gyroscopes, and barometers in your projects, without knowing the intimate details about the actual device connected.
 [ 579 ] ArduRPC          arduino, atmelavr, espressif "DinoTools": ArduRPC brings remote procedure calls to microcontrollers. The protocol has been designed to be simple and flexible.
+[ 575 ] tiny-http        arduino, energia, mbed, libopencm3, spl, wiringpi, atmelavr, atmelsam, timsp430, titiva, teensy, freescalekinetis, ststm32, nordicnrf51, nxplpc, espressif, siliconlabsefm32, linux_arm "Celci.us Labs": A Tiny HTTP Server
 
 ```
 
