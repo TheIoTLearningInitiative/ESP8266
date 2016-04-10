@@ -10,6 +10,13 @@ Structure IoT Development Platform
 
 ```sh
 [ 253 ] Structure        arduino, atmelavr, atmelsam, timsp430, titiva, teensy, freescalekinetis, ststm32, nordicnrf51, nxplpc, espressif, siliconlabsefm32, linux_arm, native "Structure": Arduino SDK for connecting embedded devices to the Structure IoT developer platform
+...
+xe1gyq@jessie:~/nodemcu$ platformio lib install 253
+Installing library [ 253 ]:
+Downloading  [####################################]  100%
+Unpacking  [####################################]  100%
+The library #253 'Structure' has been successfully installed!
+
 ```
 
 ## Welcome
