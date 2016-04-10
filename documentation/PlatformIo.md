@@ -265,6 +265,18 @@ Commands:
   show       Show details about installed library
   uninstall  Uninstall libraries
   update     Update installed libraries
+xe1gyq@jessie:~/nodemcu$ platformio lib search mqtt
+Found 6 libraries:
+
+[ ID  ] Name             Compatibility         "Authors": Description
+--------------------------------------------------------------------------------
+[ 89  ] PubSubClient     arduino, atmelavr, espressif "Nick O'Leary": A client library for MQTT messaging. MQTT is a lightweight messaging protocol ideal for small devices. This library allows you to send and receive MQTT messages. It supports the latest MQTT 3.1.1 protocol and can be configured to use the older MQTT 3.1 if
+[1092 ] Adafruit-MQTT    arduino, atmelavr, espressif "Adafruit Industries": MQTT library that supports the CC3000, FONA, ESP8266, Yun, and generic Arduino Client hardware.
+[ 537 ] espduino         arduino, atmelavr, atmelsam, teensy "Tuan PM": Wifi library (Chip ESP8266 Wifi SoC) using SLIP protocol via Serial port
+[ 555 ] Homie            arduino, espressif    "Marvin Roger": ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
+[ 270 ] DimSwitch        arduino, atmelavr, atmelsam, espressif "Krzysztof": A library to control dimmable ballasts for fluorescent light tubes.
+[ 227 ] Esp8266Configuration arduino, espressif    "Karsten Kukat": store and read configuration from SPIFFS (wifi ap, wifi station, mqtt ..)
+
 ```
 
 - https://atom.io/packages/platomformio
