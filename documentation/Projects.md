@@ -15,6 +15,8 @@ Projects
 [ 578 ] Sensors          arduino, mbed, wiringpi, atmelavr, teensy, espressif, linux_arm "James Smith": Use I2C-connected sensors like accelerometers, gyroscopes, and barometers in your projects, without knowing the intimate details about the actual device connected.
 [ 579 ] ArduRPC          arduino, atmelavr, espressif "DinoTools": ArduRPC brings remote procedure calls to microcontrollers. The protocol has been designed to be simple and flexible.
 [ 575 ] tiny-http        arduino, energia, mbed, libopencm3, spl, wiringpi, atmelavr, atmelsam, timsp430, titiva, teensy, freescalekinetis, ststm32, nordicnrf51, nxplpc, espressif, siliconlabsefm32, linux_arm "Celci.us Labs": A Tiny HTTP Server
+[ 429 ] aREST            arduino, atmelavr, atmelsam, teensy, espressif "marcoschwartz": RESTful API for Arduino using HTTP or Serial communications
+[ 124 ] RadioHead        arduino, energia, atmelavr, atmelsam, timsp430, titiva, teensy, freescalekinetis, ststm32, nordicnrf51, nxplpc, espressif, siliconlabsefm32, linux_arm, native "Mike McCauley": The RadioHead Packet Radio library which provides a complete object-oriented library for sending and receiving packetized messages via RF22/24/26/27/69, Si4460/4461/4463/4464, nRF24/nRF905, SX1276/77/78, RFM95/96/97/98 and etc.
 
 ```
 
