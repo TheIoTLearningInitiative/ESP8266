@@ -16,7 +16,7 @@ Installing library [ 253 ]:
 Downloading  [####################################]  100%
 Unpacking  [####################################]  100%
 The library #253 'Structure' has been successfully installed!
-
+xe1gyq@jessie:~/nodemcu$ 
 ```
 
 ## Welcome
