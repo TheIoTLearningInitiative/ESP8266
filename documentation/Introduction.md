@@ -1,6 +1,8 @@
 Introduction
 ==
 
+
+
 - [ESP8266 Wiki](https://github.com/esp8266/esp8266-wiki/wiki)
 - https://www.gitbook.com/book/smartarduino/user-manual-for-esp-12e-devkit/details
 - http://www.instructables.com/id/ESP8266-HTTP-IO-Server/
@@ -15,6 +17,7 @@ Introduction
 - https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide
 - https://github.com/nodemcu
 - http://hanneslehmann.github.io/2014/12/ESP8266Module/
+- https://espressif.com/products/hardware/esp8266ex/overview/
 
 ## Linux Host Dmesg
 
