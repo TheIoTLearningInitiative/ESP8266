@@ -18,6 +18,7 @@ Introduction
 - https://github.com/nodemcu
 - http://hanneslehmann.github.io/2014/12/ESP8266Module/
 - https://espressif.com/products/hardware/esp8266ex/overview/
+- https://mcuoneclipse.com/2014/10/15/cheap-and-simple-wifi-with-esp8266-for-the-frdm-board/
 
 ## Linux Host Dmesg
 
