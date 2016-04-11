@@ -9,5 +9,5 @@
 * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
 * [Projects](documentation/Projects.md)
 * [Blynk](documentation/Blynk.md)
-* Sandbox
+* [Sandbox](documentation/Sandbox.md)
 
