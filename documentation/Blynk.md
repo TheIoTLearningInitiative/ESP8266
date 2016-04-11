@@ -6,6 +6,8 @@ Blynk
 - [Blynk Homepage](http://www.blynk.cc/)
 - [Blynk Getting Started](http://www.blynk.cc/getting-started/)
 
+## Installation
+
 ```sh
 xe1gyq@jessie:~/nodemcu$ platformio lib search *blynk*
 Found 1 libraries:
