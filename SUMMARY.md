@@ -7,8 +7,8 @@
 * [Customization](documentation/Customization.md)
 * Development Platform
    * [PlatformIO](documentation/PlatformIo.md)
+   * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
    * Temp
-* [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
 * [Projects](documentation/Projects.md)
 * [Blynk](documentation/Blynk.md)
 * [Sandbox](documentation/Sandbox.md)
