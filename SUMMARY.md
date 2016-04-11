@@ -6,10 +6,10 @@
    * [Microcontroller](documentation/Microcontroller.md)
 * [Customization](documentation/Customization.md)
 * Development Platform
+   * Arduino
    * [PlatformIO](documentation/PlatformIo.md)
    * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
    * [Blynk](documentation/Blynk.md)
-   * Arduino
 * [Projects](documentation/Projects.md)
 * [Sandbox](documentation/Sandbox.md)
 
