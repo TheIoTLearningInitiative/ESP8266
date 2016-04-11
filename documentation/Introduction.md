@@ -10,17 +10,7 @@ Introduction
 - [NodeMCU Github](https://github.com/nodemcu/)
 - [Lua based interactive firmware for mcu like esp8266](https://github.com/nodemcu/nodemcu-firmware)
 
-# ESP8266
 
-> ESP-12E
-
-- http://www.esp8266.com/wiki/doku.php#getting_started
-- https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide
-- https://github.com/nodemcu
-- http://hanneslehmann.github.io/2014/12/ESP8266Module/
-- https://espressif.com/products/hardware/esp8266ex/overview/
-- https://mcuoneclipse.com/2014/10/15/cheap-and-simple-wifi-with-esp8266-for-the-frdm-board/
-- https://scargill.wordpress.com/?s=esp8266
 
 ## Linux Host Dmesg
 
