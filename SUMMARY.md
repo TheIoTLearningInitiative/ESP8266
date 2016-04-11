@@ -6,8 +6,8 @@
    * [Microcontroller](documentation/Microcontroller.md)
 * [Customization](documentation/Customization.md)
 * Development Platform
+   * [PlatformIO](documentation/PlatformIo.md)
    * Temp
-* [PlatformIO](documentation/PlatformIo.md)
 * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
 * [Projects](documentation/Projects.md)
 * [Blynk](documentation/Blynk.md)
