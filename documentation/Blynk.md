@@ -1,7 +1,7 @@
 Blynk
 ==
 
-http://www.blynk.cc/getting-started/
+[Blynk Getting Started](http://www.blynk.cc/getting-started/)
 
 ```sh
 xe1gyq@jessie:~/nodemcu$ platformio lib search *blynk*
