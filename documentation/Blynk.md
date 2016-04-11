@@ -1,8 +1,7 @@
 Blynk
 ==
 
-> Create an app for any connected project or product based on Arduino, Raspberry Pi, ESP8266, SparkFun, and other hardware
-
+> Create an app for any connected project or product based on Arduino, Raspberry Pi, ESP8266, SparkFun, and other hardware.
 
 [Blynk Getting Started](http://www.blynk.cc/getting-started/)
 
