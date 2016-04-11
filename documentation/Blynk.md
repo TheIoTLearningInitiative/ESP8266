@@ -23,6 +23,27 @@ The library #415 'Blynk' has been successfully installed!
 xe1gyq@jessie:~/nodemcu$ vi src/blynk.ino
 ```
 
+```c
+#define BLYNK_PRINT Serial    // Comment this out to disable prints and save space
+#include <ESP8266WiFi.h>
+#include <BlynkSimpleEsp8266.h>
+
+// You should get Auth Token in the Blynk App.
+// Go to the Project Settings (nut icon).
+char auth[] = "80c754ba45644ec4b4b402eb8ae10163";
+
+void setup()
+{
+  Serial.begin(9600);
+  Blynk.begin(auth, "INFINITUMfjph", "1c2899dfda");
+}
+
+void loop()
+{
+  Blynk.run();
+}
+```
+
 ```sh
 xe1gyq@jessie:~/nodemcu$ platformio run --target upload
 espcomm_send_command: receiving 2 bytes of data
