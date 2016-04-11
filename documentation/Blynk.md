@@ -20,10 +20,13 @@ Installing library [ 415 ]:
 Downloading  [####################################]  100%
 Unpacking  [####################################]  100%
 The library #415 'Blynk' has been successfully installed!
-xe1gyq@jessie:~/nodemcu$ vi src/blynk.ino
 ```
 
-## Library Installation
+## Code 
+
+```sh
+xe1gyq@jessie:~/nodemcu$ vi src/blynk.ino
+```
 
 ```c
 #define BLYNK_PRINT Serial
