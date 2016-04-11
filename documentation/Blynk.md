@@ -22,7 +22,7 @@ Unpacking  [####################################]  100%
 The library #415 'Blynk' has been successfully installed!
 ```
 
-## Code
+## Code Writing & Execution
 
 ```sh
 xe1gyq@jessie:~/nodemcu$ vi src/blynk.ino
