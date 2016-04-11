@@ -38,7 +38,7 @@ char auth[] = "80c754ba45644ec4b4b402eb8ae10163";
 void setup()
 {
   Serial.begin(9600);
-  Blynk.begin(auth, "INFINITUMfjph", "1c2899dfda");
+  Blynk.begin(auth, "INFINITUMfjph", "1c3889dfdb");
 }
 
 void loop()
