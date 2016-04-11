@@ -8,8 +8,8 @@
 * Development Platform
    * [PlatformIO](documentation/PlatformIo.md)
    * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
+   * [Blynk](documentation/Blynk.md)
    * Temp
 * [Projects](documentation/Projects.md)
-* [Blynk](documentation/Blynk.md)
 * [Sandbox](documentation/Sandbox.md)
 
