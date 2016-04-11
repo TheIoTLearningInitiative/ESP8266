@@ -24,12 +24,10 @@ xe1gyq@jessie:~/nodemcu$ vi src/blynk.ino
 ```
 
 ```c
-#define BLYNK_PRINT Serial    // Comment this out to disable prints and save space
+#define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-// You should get Auth Token in the Blynk App.
-// Go to the Project Settings (nut icon).
 char auth[] = "80c754ba45644ec4b4b402eb8ae10163";
 
 void setup()
