@@ -10,6 +10,7 @@ Sandbox
 - http://frightanic.com/computers/build-nodemcu-firmware-for-the-esp8266/
 - http://www.allaboutcircuits.com/projects/guts-of-the-iot-part-1-building-nodemcu-from-source-for-the-esp8266/
 - http://blog.cudmore.io/post/2016/02/13/Programming-an-arduino-with-platformio/?utm_content=buffere8465&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+- http://www.esp8266.nu/index.php/ESPEasy
 
 # ESP8266
 
