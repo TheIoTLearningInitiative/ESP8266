@@ -12,7 +12,7 @@ Introduction
 - [ESPlorer](http://esp8266.ru/esplorer-latest/?f=ESPlorer.zip)
 - [NodeMCU Home Page](http://nodemcu.com/index_en.html)
 - [NodeMCU github Page](https://github.com/nodemcu)
-- [Lua home page]()
+- [Lua home page](http://www.lua.org/)
 
 
 
