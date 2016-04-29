@@ -10,7 +10,7 @@ Introduction
 - [NodeMCU Github](https://github.com/nodemcu/)
 - [Lua based interactive firmware for mcu like esp8266](https://github.com/nodemcu/nodemcu-firmware)
 - [ESPlorer](http://esp8266.ru/esplorer-latest/?f=ESPlorer.zip)
-- [NodeMCU home page]()
+- [NodeMCU Home Page](http://nodemcu.com/index_en.html)
 - [NodeMCU github page]()
 - [Lua home page]()
 
