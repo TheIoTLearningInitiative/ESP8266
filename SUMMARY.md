@@ -10,7 +10,7 @@
    * [PlatformIO](documentation/PlatformIo.md)
    * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
    * [Blynk](documentation/Blynk.md)
-   * Pyhon
+   * [Pyhon](documentation/Pyhon.md)
 * [Projects](documentation/Projects.md)
 * [Sandbox](documentation/Sandbox.md)
 
