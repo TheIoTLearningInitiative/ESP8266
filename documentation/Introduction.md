@@ -11,6 +11,7 @@ Introduction
 - [Lua based interactive firmware for mcu like esp8266](https://github.com/nodemcu/nodemcu-firmware)
 - [NodeMCU Home Page](http://nodemcu.com/index_en.html)
 - [NodeMCU github Page](https://github.com/nodemcu)
+- [Getting Started with ESP8266 WiFi Transceiver (Review)](http://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/)
 
 ## Lua
 
