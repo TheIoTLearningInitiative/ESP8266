@@ -13,6 +13,7 @@
    * [Pyhon](documentation/Pyhon.md)
 * [Libraries](Libraries.md)
    * Mqtt
+   * Gps
 * [Projects](documentation/Projects.md)
 * [Sandbox](documentation/Sandbox.md)
 
