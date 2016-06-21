@@ -11,7 +11,7 @@
    * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
    * [Blynk](documentation/Blynk.md)
    * [Pyhon](documentation/Pyhon.md)
-* Libraries
+* [Libraries](Libraries.md)
 * [Projects](documentation/Projects.md)
 * [Sandbox](documentation/Sandbox.md)
 
