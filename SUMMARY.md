@@ -10,7 +10,7 @@
    * [PlatformIO](documentation/PlatformIo.md)
    * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
    * [Blynk](documentation/Blynk.md)
-   * [Pyhon](documentation/Pyhon.md)
+   * [Python](documentation/Pyhon.md)
 * [Libraries](Libraries.md)
    * Mqtt
    * Gps
