@@ -22,10 +22,16 @@ remote: Total 385 (delta 0), reused 0 (delta 0), pack-reused 382
 Receiving objects: 100% (385/385), 152.05 KiB | 0 bytes/s, done.
 Resolving deltas: 100% (211/211), done.
 Checking connectivity... done.
+```
+
+```sh
 xe1gyq@jessie:~$ cd esptool/
 xe1gyq@jessie:~/esptool$ ls
 esptool.py  LICENSE  MANIFEST.in  README.md  setup.py
 xe1gyq@jessie:~/esptool$ 
+```
+
+```sh
 root@jessie:/home/xe1gyq/esptool# sudo apt-get purge python-pkg-resources
 Reading package lists... Done
 Building dependency tree       
@@ -85,6 +91,9 @@ Successfully built pyserial
 Installing collected packages: pyserial
 Successfully installed pyserial-3.0.1
 root@jessie:/home/xe1gyq/esptool# 
+```
+
+```sh
 root@jessie:/home/xe1gyq/esptool# python esptool.py write_flash 0x2000 nodemcu-master-14-modules-2016-04-10-05-04-51-integer.bin 
 Connecting...
 Erasing flash...
