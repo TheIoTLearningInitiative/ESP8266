@@ -14,7 +14,7 @@
 * [Libraries](Libraries.md)
    * Mqtt
    * Gps
+* [Arduino Cloud](documentation/ArduinoCloud.md)
 * [Projects](documentation/Projects.md)
 * [Sandbox](documentation/Sandbox.md)
-* [Arduino Cloud](documentation/ArduinoCloud.md)
 
