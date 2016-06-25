@@ -16,4 +16,5 @@
    * Gps
 * [Projects](documentation/Projects.md)
 * [Sandbox](documentation/Sandbox.md)
+* Arduino Cloud
 
