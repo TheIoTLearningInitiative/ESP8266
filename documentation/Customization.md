@@ -121,6 +121,9 @@ Chip ID: 0x00dc273f
 ```sh
     root@host:~# apt-get install make unrar autoconf automake libtool gcc g++ gperf flex bison texinfo gawk ncurses-dev libexpat-dev python python-serial sed git
     root@host:~# apt-get install libtool-bin
+```
+
+```sh
     user@host:~$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git
     user@host:~$ cd esp-open-sdk
     user@host:~$ make
