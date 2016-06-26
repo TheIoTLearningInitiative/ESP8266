@@ -1,6 +1,6 @@
 # Mqtt
 
-```sh
+```c
 /*
  Basic ESP8266 MQTT example
 
