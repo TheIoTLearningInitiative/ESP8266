@@ -11,7 +11,7 @@ void setup() {
     delay(10);
 
     // We start by connecting to a WiFi network
-    WiFiMulti.addAP("INFINITUMfjph", "1d8856da87");
+    WiFiMulti.addAP("INFINITUMfdca", "1d8856da87");
 
     Serial.println();
     Serial.println();
