@@ -15,7 +15,7 @@
    * [Python](documentation/Python.md)
    * [Espressif](documentation/Espressif.md)
    * [NodeMCU](documentation/NodeMcu.md)
-* [Libraries](Libraries.md)
+* [Libraries](documentation/Libraries.md)
    * Mqtt
    * Gps
 * [Arduino Cloud](documentation/ArduinoCloud.md)
