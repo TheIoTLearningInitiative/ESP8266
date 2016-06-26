@@ -9,6 +9,8 @@ The library #89 'PubSubClient' has been successfully installed!
 xe1gyq@jessie:~/nodemcu$ vi main.ino
 ```
 
+## Code Writing
+
 ```c
 /*
  Basic ESP8266 MQTT example
@@ -136,6 +138,8 @@ void loop() {
   }
 }
 ```
+
+## Code Execution
 
 ```sh
 xe1gyq@jessie:~/nodemcu$ platformio run --target upload
