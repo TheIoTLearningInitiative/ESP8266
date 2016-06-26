@@ -21,6 +21,6 @@
    * [WiFi](documentation/WiFi.md)
    * [Mqtt](documentation/Mqtt.md)
    * [Adafruit](documentation/Adafruit.md)
-   * WebServer
+   * [WebServer](documentation/WebServer.md)
 * [Sandbox](documentation/Sandbox.md)
 
