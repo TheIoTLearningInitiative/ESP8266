@@ -49,7 +49,12 @@ void loop() {
 �Open http://192.168.1.74/ in your browser to see it working
 ```
 
+```
+Username:
+Password:
 
+Login OK
+```
 
 # HelloServer
 
