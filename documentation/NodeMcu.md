@@ -15,7 +15,12 @@
 - [Getting Started with ESP8266 WiFi Transceiver (Review)](http://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/)
 - [ESP8266 core for Arduino](https://github.com/esp8266/Arduino)
 
-## Lua
+# NodeMCU Custom Builds
+
+> NodeMCU custom builds. You customize your NodeMCU firmware and we build it. Just for you. On the spot. [Homepage](http://nodemcu-build.com/)
+
+
+# Lua
 
 > Lua is a powerful, fast, lightweight, embeddable scripting language.
 
@@ -25,10 +30,6 @@
 - [ESP8266 Web Server Tutorial](http://randomnerdtutorials.com/esp8266-web-server/)
 
 
-## ESPlorer
+# ESPlorer
 
 - [ESPlorer](http://esp8266.ru/esplorer-latest/?f=ESPlorer.zip)
-
-# NodeMCU Custom Builds
-
-> NodeMCU custom builds. You customize your NodeMCU firmware and we build it. Just for you. On the spot. [Homepage](http://nodemcu-build.com/)
