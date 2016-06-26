@@ -122,6 +122,8 @@ void loop(void){
 }
 ```
 
+## Serial
+
 ```sh
 ...
 Connected to INFINITUMfjph
