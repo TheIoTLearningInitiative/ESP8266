@@ -7,13 +7,11 @@ Taken from [Sabas1080 Github](https://github.com/sabas1080/OpenWiFiDetectorESP82
 ```sh
 #include "ESP8266WiFi.h"
 
-
 const int sleepTimeS = 30;
 
 void setup() {
   Serial.begin(115200);
 
-  // Set WiFi to station mode and disconnect from an AP if it was previously connected
   WiFi.mode(WIFI_STA);
   WiFi.disconnect();
   delay(100);
