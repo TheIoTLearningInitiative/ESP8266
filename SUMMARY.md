@@ -18,5 +18,6 @@
 * [Arduino Cloud](documentation/ArduinoCloud.md)
 * [Projects](documentation/Projects.md)
    * [WiFi](documentation/WiFi.md)
+   * Mqtt
 * [Sandbox](documentation/Sandbox.md)
 
