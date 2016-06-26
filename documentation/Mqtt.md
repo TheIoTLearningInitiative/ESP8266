@@ -29,10 +29,8 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-// Update these with values suitable for your network.
-
 const char* ssid = "INFINITUMfjph";
-const char* password = "1c2899dfda";
+const char* password = "1d34df65a4";
 const char* mqtt_server = "broker.mqtt-dashboard.com";
 
 WiFiClient espClient;
