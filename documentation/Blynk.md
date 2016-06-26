@@ -23,7 +23,7 @@ Unpacking  [####################################]  100%
 The library #415 'Blynk' has been successfully installed!
 ```
 
-## Code Writing & Execution
+## Code Writing
 
 ```sh
 xe1gyq@jessie:~/nodemcu$ vi src/blynk.ino
@@ -47,6 +47,8 @@ void loop()
   Blynk.run();
 }
 ```
+
+## Code Execution
 
 ```sh
 xe1gyq@jessie:~/nodemcu$ platformio run --target upload
