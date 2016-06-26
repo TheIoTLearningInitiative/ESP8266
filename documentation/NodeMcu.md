@@ -6,4 +6,4 @@
 
 # NodeMCU
 
-[](http://nodemcu-build.com/)
+> NodeMCU custom builds. You customize your NodeMCU firmware and we build it. Just for you. On the spot. [Homepage](http://nodemcu-build.com/)
