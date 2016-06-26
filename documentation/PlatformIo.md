@@ -11,8 +11,6 @@ PlatformIO
 
 - [PlatformIO Documentation](http://docs.platformio.org/en/latest/what-is-platformio.html)
 
-
-
 ```sh
 root@jessie:/home/xe1gyq/esptool# pip install -U platformio
 Collecting platformio
