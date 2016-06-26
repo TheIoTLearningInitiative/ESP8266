@@ -8,8 +8,8 @@
 * Development Platform
    * [Arduino](documentation/Arduino.md)
    * [PlatformIO](documentation/PlatformIo.md)
-   * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
    * [Blynk](documentation/Blynk.md)
+   * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
    * [Python](documentation/Python.md)
    * [Espressif](documentation/Espressif.md)
    * [NodeMCU](documentation/NodeMcu.md)
