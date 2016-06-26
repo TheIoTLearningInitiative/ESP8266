@@ -15,7 +15,7 @@ void setup() {
   WiFi.mode(WIFI_STA);
   WiFi.disconnect();
   delay(100);
-  pinMode(4, OUTPUT);
+  pinMode(BUILTIN_LED, OUTPUT);
   Serial.println("Setup done");
 
 }
