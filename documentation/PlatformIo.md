@@ -7,12 +7,11 @@ PlatformIO
 
 > PlatformIO is an open source ecosystem for IoT development. Cross-platform build system. Continuous and IDE integration. Arduino and MBED compatible.
 
+> Integration with PlatformIO an open source ecosystem for IoT development. Cross-platform code builder and library manager. Continuous and IDE integration. Arduino and MBED compatible. Ready for Cloud compiling. [Homepage](https://atom.io/packages/platomformio)
+
 - [PlatformIO](http://platformio.org/get-started)
 - [PlatformIO Documentation](http://docs.platformio.org/en/latest/what-is-platformio.html)
 
-# 
-
-> Integration with PlatformIO an open source ecosystem for IoT development. Cross-platform code builder and library manager. Continuous and IDE integration. Arduino and MBED compatible. Ready for Cloud compiling. [Homepage](https://atom.io/packages/platomformio)
 
 
 ```sh
