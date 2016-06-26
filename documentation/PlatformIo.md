@@ -9,6 +9,8 @@ PlatformIO
 
 - [PlatformIO](http://platformio.org/get-started)
 - [PlatformIO Documentation](http://docs.platformio.org/en/latest/what-is-platformio.html)
+- [](https://atom.io/packages/platomformio)
+
 
 ```sh
 root@jessie:/home/xe1gyq/esptool# pip install -U platformio
@@ -61,8 +63,6 @@ Useful commands:
 `platformio run --help` - additional information
 ```
 
-
-
 ### PlatformIO Lib
 
 ```sh
@@ -103,5 +103,10 @@ Found 73 libraries:
 
 ```
 
-- https://atom.io/packages/platomformio
-
+```sh
+xe1gyq@jessie:~/nodemcu$ platformio lib install 6 
+Installing library [ 6 ]:
+Downloading  [####################################]  100%
+Unpacking  [####################################]  100%
+The library #6 'XBee' has been successfully installed!
+```
