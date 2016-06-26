@@ -11,7 +11,7 @@
        * [Led](documentation/PIOHelloWorld.md)
        * [Blynk](documentation/Blynk.md)
        * [Mqtt](documentation/PIOMqtt.md)
-   * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
+   * [Structure IoT Development Platform](documentation/StructureIoTDevelopmentPlatform.md)
    * [Python](documentation/Python.md)
    * [Espressif](documentation/Espressif.md)
    * [NodeMCU](documentation/NodeMcu.md)
