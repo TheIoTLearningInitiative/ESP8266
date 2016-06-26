@@ -58,7 +58,7 @@ const char* password = "1d66df9245";
 
 ESP8266WebServer server(80);
 
-const int led = 13;
+const int led = BUILTIN_LED;
 
 void handleRoot() {
   digitalWrite(led, 1);
