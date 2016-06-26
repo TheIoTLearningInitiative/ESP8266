@@ -1,6 +1,6 @@
 # WiFi
 
-Taken from [Sabas1080 github](https://github.com/sabas1080/OpenWiFiDetectorESP8266)
+Taken from [Sabas1080 Github](https://github.com/sabas1080/OpenWiFiDetectorESP8266)
 
 ## Search
 
