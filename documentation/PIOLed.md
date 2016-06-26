@@ -1,15 +1,10 @@
 # Led
 
 ```sh
-xe1gyq@jessie:~/nodemcu$ vi src/led.ino
+xe1gyq@jessie:~/nodemcu$ vi src/main.ino
 ```
 
 ```c
-/**
- * Blink
- * Turns on an LED on for one second,
- * then off for one second, repeatedly.
- */
 #include "Arduino.h"
 
 void setup()
