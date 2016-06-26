@@ -1,5 +1,7 @@
 # Led
 
+## Code Writing
+
 ```sh
 xe1gyq@jessie:~/nodemcu$ vi src/main.ino
 ```
@@ -20,6 +22,8 @@ void loop()
   delay(500);
 }
 ```
+
+## Code Execution
 
 ```sh
 xe1gyq@jessie:~/nodemcu$ platformio run --target upload
