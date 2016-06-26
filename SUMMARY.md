@@ -9,7 +9,6 @@
    * [Arduino](documentation/Arduino.md)
    * [PlatformIO](documentation/PlatformIo.md)
        * [Blynk](documentation/Blynk.md)
-       * Tbd
    * [Structure IoT Development Platform](StructureIoTDevelopmentPlatform.md)
    * [Python](documentation/Python.md)
    * [Espressif](documentation/Espressif.md)
