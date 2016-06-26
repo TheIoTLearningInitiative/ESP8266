@@ -14,7 +14,6 @@ xe1gyq@jessie:~/nodemcu$ vi src/blink.ino
 
 void setup()
 {
-  // initialize LED digital pin as an output.
   pinMode(LED_BUILTIN, OUTPUT);
 }
 
