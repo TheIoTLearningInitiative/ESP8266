@@ -45,9 +45,13 @@ void loop() {
 }
 ```
 
+# Serial
+
 ```sh
 �Open http://192.168.1.74/ in your browser to see it working
 ```
+
+## Web Browser
 
 ```
 Username:
