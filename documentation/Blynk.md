@@ -26,6 +26,7 @@ The library #415 'Blynk' has been successfully installed!
 ## Code Writing
 
 ```sh
+xe1gyq@jessie:~/nodemcu$ echo > src/main.ino
 xe1gyq@jessie:~/nodemcu$ vi src/main.ino
 ```
 
