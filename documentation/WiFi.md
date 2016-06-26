@@ -5,26 +5,35 @@ Taken from [Sabas1080 Github](https://github.com/sabas1080/OpenWiFiDetectorESP82
 ## Search
 
 ```sh
+/*
+ *MASLOW: an Open WiFi Detector with ESP8266 
+ *based in Adafruit https://learn.adafruit.com/wifi-hotspot-finder-adafruit-pro-trinket-cc3000
+ * by Andres Sabas
+ * The Inventor's House Hackerspace
+ * 19 sept 2015
+ */
+ 
 #include "ESP8266WiFi.h"
 
 const int sleepTimeS = 30;
 
+void sleep_now(){ 
+  Serial.print(F("Sleeping..."));
+  ESP.deepSleep(sleepTimeS * 1000000);
+}
+
 void setup() {
   Serial.begin(115200);
-
   WiFi.mode(WIFI_STA);
   WiFi.disconnect();
   delay(100);
   pinMode(BUILTIN_LED, OUTPUT);
   Serial.println("Setup done");
-
 }
   
 void loop() {
   uint8_t sec;
-  
-  analogWrite(4, 10);
-
+  analogWrite(BUILTIN_LED, 10);
   Serial.print(F("Scanning..."));
   int n = WiFi.scanNetworks(); // WiFi.scanNetworks will return the number of networks found
   Serial.println(F("scan done"));
@@ -49,33 +58,15 @@ void loop() {
         Serial.println(sec);
         delay(10);
 
-        if((sec == ENC_TYPE_NONE || sec == ENC_TYPE_WEP) && (WiFi.RSSI(i) > -95)) { // If open network and good signal...
-            // Switch LED to conspicuous 'open networks' flash immediately
-            analogWrite(4, 1023); // 1 sec
+        if((sec == ENC_TYPE_NONE || sec == ENC_TYPE_WEP) && (WiFi.RSSI(i) > -95)) {
+            analogWrite(BUILTIN_LED, 1023);
             delay(1000);
-            // "Open hotspot" is as good as the indicator gets and the scan
-            // can stop now, get into power-saving sleep mode ASAP.
-            // If you're using the Serial console and want to see all
-            // networks displayed, comment out this line:
-            //Serial.println("Not security");
-            //Mode Sleep for ESP8266 Version 12 or model with pin16 avaible
-            //Necesary jump RST and GPIO16
-            
-            sleep_now(); // Function Sleep 30 seconds
+            Serial.println("Not security");
+            sleep_now();
         }
     }
   }
 
-}
-
-//Mode Sleep for ESP8266 Version 12 or model with pin16 avaible
-
-void sleep_now(){
- 
-  Serial.print(F("Sleeping..."));
-  // deepSleep time is defined in microseconds. Multiply
-  // seconds by 1e6 
-  ESP.deepSleep(sleepTimeS * 1000000);
 }
 ```
 
