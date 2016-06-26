@@ -40,7 +40,6 @@ void loop() {
     Serial.print("connecting to ");
     Serial.println(host);
 
-    // Use WiFiClient class to create TCP connections
     WiFiClient client;
 
     if (!client.connect(host, port)) {
@@ -50,10 +49,8 @@ void loop() {
         return;
     }
 
-    // This will send the request to the server
     client.print("Send this data to server");
 
-    //read back one line from server
     String line = client.readStringUntil('\r');
     client.println(line);
 
