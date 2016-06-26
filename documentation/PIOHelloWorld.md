@@ -1,6 +1,6 @@
 # Hello World
 
-```
+```sh
 xe1gyq@jessie:~/nodemcu$ vi src/blink.ino
 ```
 
