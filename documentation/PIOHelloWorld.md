@@ -1,7 +1,7 @@
-# Hello World
+# Led
 
 ```sh
-xe1gyq@jessie:~/nodemcu$ vi src/blink.ino
+xe1gyq@jessie:~/nodemcu$ vi src/led.ino
 ```
 
 ```c
