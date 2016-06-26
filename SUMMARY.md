@@ -12,6 +12,7 @@
    * [Blynk](documentation/Blynk.md)
    * [Python](documentation/Python.md)
    * [Espressif](documentation/Espressif.md)
+   * NodeMCU
 * [Libraries](Libraries.md)
    * Mqtt
    * Gps
