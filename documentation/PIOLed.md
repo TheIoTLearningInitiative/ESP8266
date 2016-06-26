@@ -3,6 +3,7 @@
 ## Code Writing
 
 ```sh
+xe1gyq@jessie:~/nodemcu$ echo > src/main.ino
 xe1gyq@jessie:~/nodemcu$ vi src/main.ino
 ```
 
