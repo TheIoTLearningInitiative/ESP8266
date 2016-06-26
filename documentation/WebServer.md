@@ -47,6 +47,10 @@ void loop() {
 
 # HelloServer
 
+```c
+
+```
+
 ```sh
 ...
 Connected to INFINITUMfjph
