@@ -19,5 +19,6 @@
 * [Projects](documentation/Projects.md)
    * [WiFi](documentation/WiFi.md)
    * [Mqtt](documentation/Mqtt.md)
+   * Adafruit
 * [Sandbox](documentation/Sandbox.md)
 
