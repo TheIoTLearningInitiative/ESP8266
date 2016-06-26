@@ -1,11 +1,13 @@
 # WiFi
 
+Taken from [Sabas1080 github](https://github.com/sabas1080/OpenWiFiDetectorESP8266)
+
 ## Search
 
 ```sh
 #include "ESP8266WiFi.h"
 
-// Time to sleep (in seconds):
+
 const int sleepTimeS = 30;
 
 void setup() {
