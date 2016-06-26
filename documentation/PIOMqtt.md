@@ -6,7 +6,7 @@ Installing library [ 89 ]:
 Downloading  [####################################]  100%
 Unpacking  [####################################]  100%
 The library #89 'PubSubClient' has been successfully installed!
-xe1gyq@jessie:~/nodemcu$ vi mqtt.ino
+xe1gyq@jessie:~/nodemcu$ vi main.ino
 ```
 
 ```c
