@@ -8,10 +8,10 @@
 * Development Platform
    * [Arduino](documentation/Arduino.md)
    * [PlatformIO](documentation/PlatformIo.md)
+       * Setup
        * [Led](documentation/PIOLed.md)
        * [Mqtt](documentation/PIOMqtt.md)
        * [Blynk](documentation/Blynk.md)
-       * Setup
    * [Structure IoT Development Platform](documentation/StructureIoTDevelopmentPlatform.md)
    * [Python](documentation/Python.md)
    * [Espressif](documentation/Espressif.md)
