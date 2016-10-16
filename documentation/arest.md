@@ -1,3 +1,3 @@
 # Arest
 
-[](https://arest.io)
+[Arest](https://arest.io)
