@@ -18,7 +18,7 @@
 * [Libraries](documentation/Libraries.md)
    * Mqtt
    * Gps
-   * Arest
+   * [Arest](documentation/arest.md)
 * [Arduino Cloud](documentation/ArduinoCloud.md)
 * [Projects](documentation/Projects.md)
    * [WiFi](documentation/WiFi.md)
