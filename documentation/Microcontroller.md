@@ -11,7 +11,11 @@
 
 [Resources](https://espressif.com/en/products/hardware/esp8266ex/resources)
 
-- https://espressif.com/en/products/hardware/esp8266ex/resources
+- SDKs & Demos
+- Tools
+- Samples Codes
+- Documentation
+- FAQs
 
 
 ## Linux Host Dmesg
