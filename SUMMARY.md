@@ -8,7 +8,7 @@
 * Development Platform
    * [Arduino](documentation/Arduino.md)
    * [PlatformIO](documentation/PlatformIo.md)
-       * Setup
+       * [Setup](documentation/PlatformIoSetup.md)
        * [Led](documentation/PIOLed.md)
        * [Mqtt](documentation/PIOMqtt.md)
        * [Blynk](documentation/Blynk.md)
