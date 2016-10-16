@@ -9,6 +9,10 @@
 > Wide temperature range: -40°C to +125°C
 > ESP8285 - ESP8266 embeded with 8 Mbit flash
 
+[Resources](https://espressif.com/en/products/hardware/esp8266ex/resources)
+
+- https://espressif.com/en/products/hardware/esp8266ex/resources
+
 
 ## Linux Host Dmesg
 
