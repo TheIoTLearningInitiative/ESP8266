@@ -3,8 +3,12 @@
 
 # Espressig 8266
 
-> 
-https://espressif.com/en/products/hardware/esp8266ex/overview
+>  [Homepage](https://espressif.com/en/products/hardware/esp8266ex/overview)
+> Low-power, highly-integrated Wi-Fi solution
+> A minimal of 7 external components
+> Wide temperature range: -40°C to +125°C
+> ESP8285 - ESP8266 embeded with 8 Mbit flash
+
 
 ## Linux Host Dmesg
 
