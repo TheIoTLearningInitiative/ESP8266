@@ -1,7 +1,7 @@
 # Microcontroller
 
 
-# Espressig 8266
+# Espressif 8266
 
 > ESP8266EX is among the most integrated Wi-Fi chips in the industry. Measuring just 5mm x 5mm, ESP8266EX requires minimal external circuitry and integrates a 32-bit Tensilica MCU, standard digital peripheral interfaces, antenna switches, RF balun, power amplifier, low noise receive amplifier, filters and power management modules - all in one small package. [Homepage](https://espressif.com/en/products/hardware/esp8266ex/overview)
 > Low-power, highly-integrated Wi-Fi solution
