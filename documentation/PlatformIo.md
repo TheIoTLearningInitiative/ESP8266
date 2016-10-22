@@ -8,7 +8,7 @@
 
 - [PlatformIO Documentation](http://docs.platformio.org/en/latest/what-is-platformio.html)
 
-# PlatformIO UI
+# PlatformIO IDE
 
 [](http://platformio.org/platformio-ide)
 
