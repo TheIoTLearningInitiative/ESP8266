@@ -12,6 +12,7 @@
   - WeMos D1
   - WeMos D1 mini
 
+# Setup Steps
 
 1. File > Preferences > Additional Boards Manager URLs
 2. http://arduino.esp8266.com/stable/package_esp8266com_index.json
