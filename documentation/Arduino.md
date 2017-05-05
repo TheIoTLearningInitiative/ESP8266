@@ -18,6 +18,8 @@
 2. http://arduino.esp8266.com/stable/package_esp8266com_index.json
 3. Tools > Board > Board Manager
 
+# Configuration
+
 ```
 Board: NodeMCU 1.0
 CPU Frequency: 
