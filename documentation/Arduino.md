@@ -1,6 +1,7 @@
 # Arduino IDE
 
 - [Getting Started with Arduino](http://www.arduino.cc/en/Guide/HomePage)
+- [Unofficial list of 3rd party boards support urls](https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls)
 
 1. File > Preferences > Additional Boards Manager URLs
 2. http://arduino.esp8266.com/stable/package_esp8266com_index.json
