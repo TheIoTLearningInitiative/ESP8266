@@ -1,5 +1,29 @@
 # Micro Python ESP8266
 
+
+```sh
+user@host:~$ export PATH=/home/xe1gyq/NodeMcu/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
+```
+
+```sh
+user@host:~$ cd micropython/esp8266
+user@host:~$ make
+```
+
+```sh
+...
+LINK build/firmware.elf
+   text	   data	    bss	    dec	    hex	filename
+ 572052	   1096	  64360	 637508	  9ba44	build/firmware.elf
+Create build/firmware-combined.bin
+esptool.py v1.2
+('flash    ', 36256)
+('padding  ', 608)
+('irom0text', 536940)
+('total    ', 573804)
+('md5      ', '9c0e81ca947e91beae3e3b7cec9df97f')
+```
+
 ```sh
 user@host:~$ make PORT=/dev/ttyUSB0 deploy
 Use make V=1 or set BUILD_VERBOSE in your environment to increase build verbosity.
