@@ -8,8 +8,6 @@
 - [Flashing the NodeMCU firmware on the ESP8266 (Linux) - Guide](http://www.whatimade.today/flashing-the-nodemcu-firmware-on-the-esp8266-linux-guide/)
 - [Github NodeMcu-Firmware](https://github.com/nodemcu/nodemcu-firmware/releases)
 
-
-
 ## Services
 
 > IoT platform for Makers
@@ -18,7 +16,7 @@
 - https://github.com/knolleary/pubsubclient/blob/master/examples/mqtt_esp8266/mqtt_esp8266.ino
 - 
 
-### ESPlorer
+## ESPlorer
 
 ```sh
     java –jar ESPlorer.jar
