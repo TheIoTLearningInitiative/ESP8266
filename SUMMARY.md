@@ -27,6 +27,6 @@
   * [Mqtt](documentation/Mqtt.md)
   * [Adafruit](documentation/Adafruit.md)
   * [WebServer](documentation/WebServer.md)
-  * [IBM Watson IoT](documentation/ibm-watson-iot.md)
+  * [IBM Watson IoT](documentation/IbmWatsonIoT.md)
 * [Sandbox](documentation/Sandbox.md)
 
