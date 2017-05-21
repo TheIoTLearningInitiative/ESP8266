@@ -47,4 +47,14 @@ Upload Speed:
 Port: 
 ```
 
+```sh
+Archiving built core (caching) in: /tmp/arduino_cache_802597/core/core_esp8266_esp8266_nodemcuv2_CpuFrequency_80,UploadSpeed_115200,FlashSize_4M3M_270be6ff9182869e36429f5bd365089d.a
+Sketch uses 222129 bytes (21%) of program storage space. Maximum is 1044464 bytes.
+Global variables use 31496 bytes (38%) of dynamic memory, leaving 50424 bytes for local variables. Maximum is 81920 bytes.
+Uploading 226272 bytes from /tmp/arduino_build_658763/Blink.ino.bin to flash at 0x00000000
+................................................................................ [ 36% ]
+................................................................................ [ 72% ]
+.............................................................                    [ 100% ]
+
+```
 
