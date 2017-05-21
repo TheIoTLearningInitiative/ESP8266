@@ -65,6 +65,20 @@ hi
 >>> 
 ```
 
+# Micro Python Execution
+
+```python
+MicroPython v1.8.7-781-g299c0a39 on 2017-05-21; ESP module with ESP8266
+Type "help()" for more information.
+>>> import machine
+>>> machine.freq()
+80000000
+>>> machine.freq(160000000)
+>>> import esp
+>>> esp.osdebug(None)
+>>> esp.osdebug(0)
+```
+
 # Micro Python Pip
 
 ```sh
