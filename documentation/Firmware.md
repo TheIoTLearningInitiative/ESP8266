@@ -8,30 +8,7 @@
 - [Flashing the NodeMCU firmware on the ESP8266 (Linux) - Guide](http://www.whatimade.today/flashing-the-nodemcu-firmware-on-the-esp8266-linux-guide/)
 - [Github NodeMcu-Firmware](https://github.com/nodemcu/nodemcu-firmware/releases)
 
-## ESP8266 ROM Bootloader Utility
 
-> A cute Python utility to communicate with the ROM bootloader in Espressif ESP8266. It is intended to be a simple, platform independent, open source replacement for XTCOM.
-
-- https://github.com/themadinventor/esptool
-
-## Node-MCU Firmware
-
-> lua based interactive firmware for mcu like esp8266 http://nodemcu.com
-
-- https://github.com/nodemcu/nodemcu-firmware
-- https://github.com/nodemcu/nodemcu-firmware/releases/tag/0.9.6-dev_20150704
-- https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide
-
-```sh
-user@host:~$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git /opt/esp-open-sdk
-user@host:~$ cd /opt/esp-open-sdk
-user@host:~$ make STANDALONE=y
-user@host:~$ PATH=/opt/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
-user@host:~$ git clone https://github.com/nodemcu/nodemcu-firmware.git
-user@host:~$ cd /opt/nodemcu-firmware
-user@host:~$ make
-```
-- http://hanneslehmann.github.io/2015/01/ESP8266Module_LUA/
 
 ## Services
 

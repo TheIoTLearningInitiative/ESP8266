@@ -2,6 +2,10 @@
 
 # ESP Tool
 
+> A cute Python utility to communicate with the ROM bootloader in Espressif ESP8266. It is intended to be a simple, platform independent, open source replacement for XTCOM.
+
+- [Github](https://github.com/themadinventor/esptool)
+
 ```sh
 xe1gyq@jessie:~$ sudo pip install setuptools
 xe1gyq@jessie:~$ sudo pip install esptool
@@ -112,3 +116,22 @@ root@jessie:/home/xe1gyq/esptool# python esptool.py chip_id
 Connecting...
 Chip ID: 0x00dc273f
 ```
+
+# Node-MCU Firmware
+
+> lua based interactive firmware for mcu like esp8266 http://nodemcu.com
+
+- https://github.com/nodemcu/nodemcu-firmware
+- https://github.com/nodemcu/nodemcu-firmware/releases/tag/0.9.6-dev_20150704
+- https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide
+
+```sh
+user@host:~$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git /opt/esp-open-sdk
+user@host:~$ cd /opt/esp-open-sdk
+user@host:~$ make STANDALONE=y
+user@host:~$ PATH=/opt/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
+user@host:~$ git clone https://github.com/nodemcu/nodemcu-firmware.git
+user@host:~$ cd /opt/nodemcu-firmware
+user@host:~$ make
+```
+- http://hanneslehmann.github.io/2015/01/ESP8266Module_LUA/
