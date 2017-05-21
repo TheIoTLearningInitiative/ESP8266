@@ -22,9 +22,6 @@
   * [Espressif](documentation/Espressif.md)
   * [NodeMCU](documentation/NodeMcu.md)
 * [Libraries](documentation/Libraries.md)
-  * Mqtt
-  * Gps
-  * [Arest](documentation/arest.md)
 * [Projects](documentation/Projects.md)
   * [WiFi](documentation/WiFi.md)
   * [Mqtt](documentation/Mqtt.md)
