@@ -1,5 +1,4 @@
-Blynk
-==
+# Blynk
 
 > Create an app for any connected project or product based on Arduino, Raspberry Pi, ESP8266, SparkFun, and other hardware.
 
