@@ -20,9 +20,6 @@ root@host:~# sudo apt-get install libtool-bin
 
 ```sh
 root@host:~$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git
-root@host:~$ 
-root@host:~$ 
-root@host:~$ 
-root@host:~$ 
-root@host:~$ 
+root@host:~$ cd esp-open-sdk/
+root@host:~$ make
 ```
