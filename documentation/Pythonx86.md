@@ -1,19 +1,6 @@
-# Python
-
-- [MicroPython tutorial for ESP8266](https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/index.html)
-
-# MicroPython
-
-> MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems [MicroPython Github](https://github.com/micropython/micropython)
-
-- [MicroPython Documentation ESP8266](http://docs.micropython.org/en/v1.8/esp8266/index.html)
+# Micro Python x86
 
 ```sh
-root@host:~# apt-get install libffi-dev pkg-config
-```
-
-```sh
-user@host:~$ git clone https://github.com/micropython/micropython.git
 user@host:~$ cd micropython/
 user@host:~$ ls
 ```
@@ -21,6 +8,7 @@ user@host:~$ ls
 ```sh
 user@host:~$ cd unix/
 user@host:~$ make axtls
+user@host:~$ make
 user@host:~$ make PORT=/dev/ttyUSB0 deploy
 Use make V=1 or set BUILD_VERBOSE in your environment to increase build verbosity.
 Writing build/firmware-combined.bin to the board
