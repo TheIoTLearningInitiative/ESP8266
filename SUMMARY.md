@@ -2,7 +2,7 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
-* Hardware
+* [Hardware](documentation/Hardware.md)
   * [Microcontroller](documentation/Microcontroller.md)
 * [Customization](documentation/Customization.md)
 * [Firmware](documentation/Firmware.md)
