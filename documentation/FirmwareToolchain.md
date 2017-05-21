@@ -8,7 +8,7 @@
 
 > Free and open (as much as possible) integrated SDK for ESP8266/ESP8285 chips
 
-- [Free and open (as much as possible) integrated SDK for ESP8266/ESP8285 chips](https://github.com/pfalcon/esp-open-sdk)
+- [Github](https://github.com/pfalcon/esp-open-sdk)
 
 ```sh
 root@host:~# sudo apt-get install make unrar-free autoconf automake libtool gcc g++ gperf \
@@ -29,3 +29,13 @@ root@host:~$ make
 ```sh
 root@host:~$ export PATH=/home/xe1gyq/NodeMcu/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
 ```
+
+## ESP Open SDK Update
+
+```sh
+$ make clean
+$ git pull
+$ git submodule sync
+$ git submodule update
+```
+
