@@ -2,7 +2,7 @@
 
 {% include "git+https://github.com/GitbookIO/documentation.git/README.md#0.0.1" %}
 
-# PlatformIO IDE
+# PlatformIO IDE Command Line Installation
 
 > The next-generation integrated development environment for IoT
 
@@ -38,9 +38,9 @@ Successfully installed bottle-0.12.9 click-5.1 colorama-0.3.7 lockfile-0.12.2 pl
 ```
 
 ```sh
-xe1gyq@workstation:~$ mkdir nodemcu
-xe1gyq@workstation:~$ cd nodemcu/
-xe1gyq@workstation:~/nodemcu$ platformio init --board=nodemcu
+user@workstation:~$ mkdir nodemcu
+user@workstation:~$ cd nodemcu/
+user@workstation:~/nodemcu$ platformio init --board=nodemcu
 
 The current working directory /home/xe1gyq/nodemcu will be used for project.
 You can specify another project directory via
@@ -60,10 +60,10 @@ Useful commands:
 `platformio run --help` - additional information
 ```
 
-### PlatformIO Lib
+### PlatformIO Libraries
 
 ```sh
-xe1gyq@workstation:~/nodemcu$ platformio lib 
+user@workstation:~/nodemcu$ platformio lib 
 Usage: platformio lib [OPTIONS] COMMAND [ARGS]...
 
 Options:
@@ -80,7 +80,7 @@ Commands:
 ```
 
 ```sh
-xe1gyq@workstation:~/nodemcu$ platformio lib search mqtt
+user@workstation:~/nodemcu$ platformio lib search mqtt
 Found 6 libraries:
 
 [ ID  ] Name             Compatibility         "Authors": Description
@@ -94,10 +94,10 @@ Found 6 libraries:
 ```
 
 ```sh
-xe1gyq@workstation:~/nodemcu$ platformio lib search -f mbed
+user@workstation:~/nodemcu$ platformio lib search -f mbed
 Found 85 libraries:
 ...
-xe1gyq@workstation:~/nodemcu$ platformio lib search -p espressif
+user@workstation:~/nodemcu$ platformio lib search -p espressif
 Found 73 libraries:
 
 [ ID  ] Name             Compatibility         "Authors": Description
@@ -107,7 +107,7 @@ Found 73 libraries:
 ```
 
 ```sh
-xe1gyq@workstation:~/nodemcu$ platformio lib install 6 
+user@workstation:~/nodemcu$ platformio lib install 6 
 Installing library [ 6 ]:
 Downloading  [####################################]  100%
 Unpacking  [####################################]  100%
