@@ -114,6 +114,8 @@ ip:192.168.1.71,mask:255.255.255.0,gw:192.168.1.254
 >>> import upip                                                                 
 >>> upip.install("micropython-struct")                                          
 Installing to: /lib/                                                            
-Error: Unable to resolve pypi.python.org (no Internet?)                         
+Installing to: /lib/                                                            
+Warning: pypi.python.org SSL certificate is not validated                       
+Installing micropython-struct 0.1.1 from https://pypi.python.org/packages/5d/eez            
 >>> 
 ```
