@@ -128,27 +128,25 @@ Chip ID: 0x00dc273f
 ```
 
 ```sh
-    user@host:~$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git
-    user@host:~$ cd esp-open-sdk
-    user@host:~$ make
-    user@host:~$ export PATH=/home/xe1gyq/Projects/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
+user@host:~$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git
+user@host:~$ cd esp-open-sdk
+user@host:~$ make
+user@host:~$ export PATH=/home/xe1gyq/Projects/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
     
-    $ make clean
-    $ git pull
-    $ git submodule sync
-    $ git submodule update
+$ make clean
+$ git pull
+$ git submodule sync
+$ git submodule update
     
-    git clone --recursive https://github.com/pfalcon/esp-open-sdk.git /opt/esp-open-sdk
-    cd /opt/esp-open-sdk
-    make STANDALONE=y
-    PATH=/opt/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
-     cd /opt/nodemcu-firmware
-    make
-    
+git clone --recursive https://github.com/pfalcon/esp-open-sdk.git /opt/esp-open-sdk
+cd /opt/esp-open-sdk
+make STANDALONE=y
+PATH=/opt/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
+cd /opt/nodemcu-firmware
+make
 ```
 
 - https://github.com/pfalcon/esp-open-sdk
-
 
 ## ESP8266 ROM Bootloader Utility
 
