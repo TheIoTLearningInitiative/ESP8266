@@ -23,3 +23,7 @@ root@host:~$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git
 root@host:~$ cd esp-open-sdk/
 root@host:~$ make
 ```
+
+```sh
+root@host:~$ export PATH=/home/xe1gyq/NodeMcu/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
+```
