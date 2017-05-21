@@ -7,6 +7,8 @@
 * [Customization](documentation/Customization.md)
 * [Firmware](documentation/Firmware.md)
   * [Toolchain](documentation/FirmwareToolchain.md)
+  * Tools
+  * 
 * [Development Platform](documentation/DevelopmentPlatform.md)
   * [Arduino](documentation/Arduino.md)
     * [Arduino Cloud](documentation/ArduinoCloud.md)
