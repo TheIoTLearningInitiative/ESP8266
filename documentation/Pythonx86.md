@@ -11,7 +11,11 @@ user@host:~$ make axtls
 user@host:~$ make
 ```
 
+```sh
+user@host:~$ ./micropython
+```
 
+```python
 >>> 
 MicroPython v1.8.7-781-g299c0a39 on 2017-05-21; linux version
 Use Ctrl-D to exit, Ctrl-E for paste mode
