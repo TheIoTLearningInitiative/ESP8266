@@ -6,6 +6,7 @@
   * [Microcontroller](documentation/Microcontroller.md)
 * [Customization](documentation/Customization.md)
 * [Firmware](documentation/Firmware.md)
+  * [Toolchain](documentation/FirmwareToolchain.md)
 * [Development Platform](development-platform.md)
   * [Arduino](documentation/Arduino.md)
     * [Arduino Cloud](documentation/ArduinoCloud.md)
