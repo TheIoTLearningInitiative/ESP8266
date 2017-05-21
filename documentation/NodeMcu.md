@@ -26,7 +26,6 @@
 - [Lua home page](http://www.lua.org/)
 - [ESP8266 Web Server Tutorial](http://randomnerdtutorials.com/esp8266-web-server/)
 
-
 # ESPlorer
 
 - [ESPlorer](http://esp8266.ru/esplorer-latest/?f=ESPlorer.zip)
