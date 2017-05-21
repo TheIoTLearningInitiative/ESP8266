@@ -29,7 +29,7 @@ user@host:~$ cd unix/
 user@host:~$ make axtls
 ```
 
-# Deploy
+# MicroPython Deploy
 
 ```sh
 user@host:~$ export PATH=/home/xe1gyq/NodeMcu/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
@@ -65,4 +65,12 @@ hi
 >>> 
 ```
 
+# MicroPython Pip
 
+```sh
+>>> import upip                                                                 
+>>> upip.install("micropython-struct")                                          
+Installing to: /lib/                                                            
+Error: Unable to resolve pypi.python.org (no Internet?)                         
+>>> 
+```
