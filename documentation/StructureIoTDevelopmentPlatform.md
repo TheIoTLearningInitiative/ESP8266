@@ -1,5 +1,4 @@
-Structure IoT Development Platform
-==
+# Structure IoT Development Platform
 
 > BUILD REAL-TIME IOT SOLUTIONS WITH EASE. Now you can connect the unconnected. With the Structure IoT developer platform your devices and data come together to create the Internet of Things solution you need.
 
