@@ -9,6 +9,9 @@ user@host:~$ ls
 user@host:~$ cd unix/
 user@host:~$ make axtls
 user@host:~$ make
+```
+
+```
 user@host:~$ make PORT=/dev/ttyUSB0 deploy
 Use make V=1 or set BUILD_VERBOSE in your environment to increase build verbosity.
 Writing build/firmware-combined.bin to the board
