@@ -24,6 +24,19 @@
 user@workstation:~/Downloads/arduino-1.8.2$ sudo usermod -a -G dialout xe1gyq
 ```
 
+```sh
+[  346.986871] usb 2-2.2: new full-speed USB device number 12 using xhci_hcd
+[  347.137961] usb 2-2.2: New USB device found, idVendor=10c4, idProduct=ea60
+[  347.137964] usb 2-2.2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[  347.137965] usb 2-2.2: Product: CP2102 USB to UART Bridge Controller
+[  347.137966] usb 2-2.2: Manufacturer: Silicon Labs
+[  347.137968] usb 2-2.2: SerialNumber: 0001
+[  347.155481] usbcore: registered new interface driver cp210x
+[  347.155501] usbserial: USB Serial support registered for cp210x
+[  347.155536] cp210x 2-2.2:1.0: cp210x converter detected
+[  347.156815] usb 2-2.2: cp210x converter now attached to ttyUSB0
+```
+
 # Arduino IDE Configuration
 
 ```
