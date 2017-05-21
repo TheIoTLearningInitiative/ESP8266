@@ -29,6 +29,12 @@ user@host:~$ cd unix/
 user@host:~$ make axtls
 ```
 
+# Deploy
+
+```sh
+user@host:~$ export PATH=/home/xe1gyq/NodeMcu/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
+```
+
 ```sh
 user@host:~$ make PORT=/dev/ttyUSB0 deploy
 Use make V=1 or set BUILD_VERBOSE in your environment to increase build verbosity.
