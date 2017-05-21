@@ -8,7 +8,6 @@
 
 # ESP Tool
 
-
 ```sh
 xe1gyq@jessie:~$ sudo pip install setuptools
 xe1gyq@jessie:~$ sudo pip install esptool
