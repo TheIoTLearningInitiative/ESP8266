@@ -12,7 +12,15 @@ root@host:~# apt-get install libffi-dev pkg-config
 ```sh
 user@host:~$ git clone https://github.com/micropython/micropython.git
 user@host:~$ cd micropython/
+```
+
+```sh
 user@host:~$ ls
+ACKNOWLEDGEMENTS    docs      lib        pic16bit   teensy   zephyr
+bare-arm            drivers   LICENSE    py         tests
+cc3200              esp8266   logo       qemu-arm   tools
+CODECONVENTIONS.md  examples  minimal    README.md  unix
+CONTRIBUTING.md     extmod    mpy-cross  stmhal     windows
 ```
 
 ```sh
