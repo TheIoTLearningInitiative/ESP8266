@@ -19,7 +19,6 @@
 
 ```
 
-
 ```sh
 /*
  ESP8266 Blink by Simon Peter
