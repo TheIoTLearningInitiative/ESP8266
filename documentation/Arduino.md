@@ -45,7 +45,15 @@ CPU Frequency: 80 MHz
 Flash Size: 4M (3M SPIFFS)
 Upload Speed: 115200
 Port: /dev/ttyUSB0
+```
 
+Board Info
+
+```sh
+BN: Unknown board
+VID: 10C4
+PID: EA60
+SN: Upload any sketch to obtain it
 ```
 
 ```sh
