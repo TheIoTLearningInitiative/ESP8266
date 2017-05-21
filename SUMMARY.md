@@ -17,6 +17,7 @@
   * [Structure IoT Development Platform](documentation/StructureIoTDevelopmentPlatform.md)
   * [Python](documentation/Python.md)
     * [x86](documentation/Pythonx86.md)
+    * [Esp8266](documentation/PythonEsp8266.md)
   * [Espressif](documentation/Espressif.md)
   * [NodeMCU](documentation/NodeMcu.md)
 * [Libraries](documentation/Libraries.md)
