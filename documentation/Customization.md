@@ -170,48 +170,16 @@ Chip ID: 0x00dc273f
 - https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide
 
 ```sh
-    user@host:~$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git /opt/esp-open-sdk
-    user@host:~$ cd /opt/esp-open-sdk
-    user@host:~$ make STANDALONE=y
-    user@host:~$ PATH=/opt/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
-    user@host:~$ git clone https://github.com/nodemcu/nodemcu-firmware.git
-    user@host:~$ cd /opt/nodemcu-firmware
-    user@host:~$ make
+user@host:~$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git /opt/esp-open-sdk
+user@host:~$ cd /opt/esp-open-sdk
+user@host:~$ make STANDALONE=y
+user@host:~$ PATH=/opt/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
+user@host:~$ git clone https://github.com/nodemcu/nodemcu-firmware.git
+user@host:~$ cd /opt/nodemcu-firmware
+user@host:~$ make
 ```
 
-## MicroPython
 
-```sh
-    root@host:~# apt-get install libffi-dev
-    user@host:~$ git clone https://github.com/micropython/micropython.git
-    user@host:~$ cd micropython/
-    user@host:~$ cd unix/
-    user@host:~$ make
-    user@host:~$ make PORT=/dev/ttyUSB0 deploy
-    Use make V=1 or set BUILD_VERBOSE in your environment to increase build verbosity.
-    Writing build/firmware-combined.bin to the board
-    #@esptool.py --port /dev/ttyUSB0 write_flash 0 build/firmware-combined.bin
-    Connecting...
-    Erasing flash...
-    Took 0.87s to erase flash block
-    Wrote 51200 bytes at 0x00000000 in 4.9 seconds (82.9 kbit/s)...
-    Erasing flash...
-    Took 1.58s to erase flash block
-    Wrote 282624 bytes at 0x00010000 in 27.4 seconds (82.5 kbit/s)...
-    
-    Leaving...
-    user@host:~$ su
-    password
-    root@host:~# minicom -D /dev/ttyUSB0
-    
-    <reset>
-    
-    >>> 
-    MicroPython v1.5.2-51-g5b3f0b7 on 2016-01-10; ESP module with ESP8266
-    Type "help()" for more information.
-    >>> 
-
-```
 
 ## Serial Monitor
 
