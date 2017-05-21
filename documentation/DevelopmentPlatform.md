@@ -8,6 +8,7 @@ Serial Connection
 - Upload Speed: 115200
 
 ```sh
+
 [12447.680034] usb 5-1: new full-speed USB device number 2 using uhci_hcd
 [12448.052042] usb 5-1: New USB device found, idVendor=10c4, idProduct=ea60
 [12448.052047] usb 5-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3

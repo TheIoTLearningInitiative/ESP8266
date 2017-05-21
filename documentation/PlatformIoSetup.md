@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/platformio/platformio/develop/scripts/99-platf
 - [Platform IO IDE](http://platformio.org/platformio-ide)
 
 ```sh
-root@jessie:/home/xe1gyq/esptool# pip install -U platformio
+root@workstation:~# pip install -U platformio
 Collecting platformio
   Downloading platformio-2.8.6-py27-none-any.whl (165kB)
     100% |████████████████████████████████| 174kB 1.0MB/s 
@@ -37,9 +37,9 @@ Successfully installed bottle-0.12.9 click-5.1 colorama-0.3.7 lockfile-0.12.2 pl
 ```
 
 ```sh
-xe1gyq@jessie:~$ mkdir nodemcu
-xe1gyq@jessie:~$ cd nodemcu/
-xe1gyq@jessie:~/nodemcu$ platformio init --board=nodemcu
+xe1gyq@workstation:~$ mkdir nodemcu
+xe1gyq@workstation:~$ cd nodemcu/
+xe1gyq@workstation:~/nodemcu$ platformio init --board=nodemcu
 
 The current working directory /home/xe1gyq/nodemcu will be used for project.
 You can specify another project directory via
@@ -62,7 +62,7 @@ Useful commands:
 ### PlatformIO Lib
 
 ```sh
-xe1gyq@jessie:~/nodemcu$ platformio lib 
+xe1gyq@workstation:~/nodemcu$ platformio lib 
 Usage: platformio lib [OPTIONS] COMMAND [ARGS]...
 
 Options:
@@ -79,7 +79,7 @@ Commands:
 ```
 
 ```sh
-xe1gyq@jessie:~/nodemcu$ platformio lib search mqtt
+xe1gyq@workstation:~/nodemcu$ platformio lib search mqtt
 Found 6 libraries:
 
 [ ID  ] Name             Compatibility         "Authors": Description
@@ -93,10 +93,10 @@ Found 6 libraries:
 ```
 
 ```sh
-xe1gyq@jessie:~/nodemcu$ platformio lib search -f mbed
+xe1gyq@workstation:~/nodemcu$ platformio lib search -f mbed
 Found 85 libraries:
 ...
-xe1gyq@jessie:~/nodemcu$ platformio lib search -p espressif
+xe1gyq@workstation:~/nodemcu$ platformio lib search -p espressif
 Found 73 libraries:
 
 [ ID  ] Name             Compatibility         "Authors": Description
@@ -106,7 +106,7 @@ Found 73 libraries:
 ```
 
 ```sh
-xe1gyq@jessie:~/nodemcu$ platformio lib install 6 
+xe1gyq@workstation:~/nodemcu$ platformio lib install 6 
 Installing library [ 6 ]:
 Downloading  [####################################]  100%
 Unpacking  [####################################]  100%
