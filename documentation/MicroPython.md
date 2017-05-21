@@ -44,6 +44,7 @@ Wrote 282624 bytes at 0x00010000 in 27.4 seconds (82.5 kbit/s)...
 Leaving...
 ```
 
+```sh
 user@host:~$ su
 password
 root@host:~# minicom -D /dev/ttyUSB0
