@@ -18,3 +18,11 @@ root@host:~# sudo apt-get install make unrar-free autoconf automake libtool gcc 
 root@host:~# sudo apt-get install libtool-bin
 ```
 
+```sh
+root@host:~$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git
+root@host:~$ 
+root@host:~$ 
+root@host:~$ 
+root@host:~$ 
+root@host:~$ 
+```
