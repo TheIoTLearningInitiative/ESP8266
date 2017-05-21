@@ -1,6 +1,7 @@
 # Firmware
 
-> You customize your NodeMCU firmware and we build it. Just for you. 
+> You customize your NodeMCU firmware and we build it. Just for you.
+> Lua based interactive firmware for mcu like esp8266
 
 - [NodeMCU Custom Builds Homepage](http://nodemcu-build.com/)
 - [Docker NodeMCU build](https://hub.docker.com/r/marcelstoer/nodemcu-build/)
@@ -85,7 +86,7 @@ The following packages were automatically installed and are no longer required:
   python-cffi python-ply python-pycparser python-six
 Use 'apt-get autoremove' to remove them.
 0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
-root@jessie:/home/xe1gyq/esptool# /usr/local/bin/pip install pyserial
+root@jessie:/home/xe1gyq/esptool# pip install pyserial
 Collecting pyserial
   Using cached pyserial-3.0.1.tar.gz
 Building wheels for collected packages: pyserial
@@ -123,8 +124,8 @@ Chip ID: 0x00dc273f
 > Free and open (as much as possible) integrated SDK for ESP8266 chips
 
 ```sh
-    root@host:~# apt-get install make unrar autoconf automake libtool gcc g++ gperf flex bison texinfo gawk ncurses-dev libexpat-dev python python-serial sed git
-    root@host:~# apt-get install libtool-bin
+root@host:~# apt-get install make unrar autoconf automake libtool gcc g++ gperf flex bison texinfo gawk ncurses-dev libexpat-dev python python-serial sed git
+root@host:~# apt-get install libtool-bin
 ```
 
 ```sh
