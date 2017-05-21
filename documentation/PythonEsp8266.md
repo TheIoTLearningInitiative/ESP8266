@@ -54,6 +54,8 @@ root@host:~# minicom -D /dev/ttyUSB0
 
 MicroPython v1.8.7-781-g299c0a39 on 2017-05-21; ESP module with ESP8266
 Type "help()" for more information.
+>>> print("hi")
+hi
 >>> 
 ```
 
