@@ -41,10 +41,11 @@ user@workstation:~/Downloads/arduino-1.8.2$ sudo usermod -a -G dialout xe1gyq
 
 ```
 Board: NodeMCU 1.0
-CPU Frequency: 
-Flash Size: 
-Upload Speed: 
-Port: 
+CPU Frequency: 80 MHz
+Flash Size: 4M (3M SPIFFS)
+Upload Speed: 115200
+Port: /dev/ttyUSB0
+
 ```
 
 ```sh
