@@ -15,6 +15,11 @@ Customization
 - [Docker NodeMCU build](https://hub.docker.com/r/marcelstoer/nodemcu-build/)
 
 ```sh
+xe1gyq@jessie:~$ sudo pip install setuptools
+xe1gyq@jessie:~$ sudo pip install esptool
+```
+
+```sh
 xe1gyq@jessie:~$ git clone https://github.com/themadinventor/esptool.git
 Cloning into 'esptool'...
 remote: Counting objects: 385, done.
