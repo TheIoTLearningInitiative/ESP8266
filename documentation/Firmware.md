@@ -35,10 +35,6 @@ user@host:~$ make
 ```
 - http://hanneslehmann.github.io/2015/01/ESP8266Module_LUA/
 
-## Hardware Node-MCU Motor
-
-- http://nodemcu-motor.doit.am/
-
 ## Services
 
 > IoT platform for Makers
@@ -56,12 +52,15 @@ user@host:~$ make
 - https://github.com/4refr0nt/ESPlorer
 - http://randomnerdtutorials.com/download/
 
-
-
 ## MQTT
 
 - [ESP8266](http://tuanpm.net/rock-solid-esp8266-wifi-mqtt-restful-client-for-arduino/)
 - [ESP8266 Relay Board Homepage](https://github.com/rnplus/ESP8266-RELAYBOARD-V1)
 - [ESP8266 Relay Board Github](https://github.com/rnplus/ESP8266-RELAYBOARD-V1)
 - [A simple connected object with NodeMCU and MQTT](http://www.foobarflies.io/a-simple-connected-object-with-nodemcu-and-mqtt/)
+
+## Hardware Node-MCU Motor
+
+- http://nodemcu-motor.doit.am/
+
 
