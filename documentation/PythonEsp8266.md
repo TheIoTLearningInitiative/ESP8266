@@ -117,5 +117,7 @@ Installing to: /lib/
 Installing to: /lib/                                                            
 Warning: pypi.python.org SSL certificate is not validated                       
 Installing micropython-struct 0.1.1 from https://pypi.python.org/packages/5d/eez            
->>> 
+>>> upip.install("micropython-pystone")                                         
+Installing to: /lib/                                                            
+Installing micropython-pystone 3.4.2-2 from https://pypi.python.org/packages/13z
 ```
