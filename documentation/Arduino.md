@@ -15,10 +15,16 @@
 # Setup Steps
 
 1. File > Preferences > Additional Boards Manager URLs
-   1.1 http://arduino.esp8266.com/stable/package_esp8266com_index.json
-3. Tools > Board > Board Manager
+   - http://arduino.esp8266.com/stable/package_esp8266com_index.json
+2. Tools > Board > Board Manager
 
-# Configuration
+# Linux Configuration
+
+```sh
+user@workstation:~/Downloads/arduino-1.8.2$ sudo usermod -a -G dialout xe1gyq
+```
+
+# Arduino IDE Configuration
 
 ```
 Board: NodeMCU 1.0
