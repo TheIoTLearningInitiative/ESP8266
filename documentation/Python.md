@@ -9,7 +9,7 @@
 - [MicroPython Documentation ESP8266](http://docs.micropython.org/en/v1.8/esp8266/index.html)
 
 ```sh
-root@host:~# apt-get install libffi-dev
+root@host:~# apt-get install libffi-dev pkg-config
 ```
 
 ```sh
