@@ -16,7 +16,7 @@
     * [Mqtt](documentation/PIOMqtt.md)
     * [Blynk](documentation/Blynk.md)
   * [Structure IoT Development Platform](documentation/StructureIoTDevelopmentPlatform.md)
-  * [Python](documentation/Python.md)
+  * [Python](documentation/MicroPython.md)
     * [x86](documentation/Pythonx86.md)
     * [Esp8266](documentation/PythonEsp8266.md)
   * [Espressif](documentation/Espressif.md)
