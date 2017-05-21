@@ -29,7 +29,7 @@ user@host:~$ cd unix/
 user@host:~$ make axtls
 ```
 
-# MicroPython Deploy
+# Micro Python Deploy
 
 ```sh
 user@host:~$ export PATH=/home/xe1gyq/NodeMcu/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
@@ -65,7 +65,7 @@ hi
 >>> 
 ```
 
-# MicroPython Pip
+# Micro Python Pip
 
 ```sh
 >>> import upip                                                                 
