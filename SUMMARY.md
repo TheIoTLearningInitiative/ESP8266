@@ -4,7 +4,6 @@
 * [Introduction](documentation/Introduction.md)
 * [Hardware](documentation/Hardware.md)
   * [Microcontroller](documentation/Microcontroller.md)
-* [Customization](documentation/Customization.md)
 * [Firmware](documentation/Firmware.md)
   * [Toolchain](documentation/FirmwareToolchain.md)
   * [Tools](documentation/FirmwareTools.md)
