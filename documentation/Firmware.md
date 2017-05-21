@@ -8,8 +8,6 @@
 - [Flashing the NodeMCU firmware on the ESP8266 (Linux) - Guide](http://www.whatimade.today/flashing-the-nodemcu-firmware-on-the-esp8266-linux-guide/)
 - [Github NodeMcu-Firmware](https://github.com/nodemcu/nodemcu-firmware/releases)
 
-
-
 ## ESP8266 ROM Bootloader Utility
 
 > A cute Python utility to communicate with the ROM bootloader in Espressif ESP8266. It is intended to be a simple, platform independent, open source replacement for XTCOM.
