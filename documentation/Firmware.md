@@ -119,36 +119,6 @@ Chip ID: 0x00dc273f
 
 ```
 
-## ESP Open SDK 
-
-> Free and open (as much as possible) integrated SDK for ESP8266 chips
-
-```sh
-root@host:~# apt-get install make unrar autoconf automake libtool gcc g++ gperf flex bison texinfo gawk ncurses-dev libexpat-dev python python-serial sed git
-root@host:~# apt-get install libtool-bin
-```
-
-```sh
-user@host:~$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git
-user@host:~$ cd esp-open-sdk
-user@host:~$ make
-user@host:~$ export PATH=/home/xe1gyq/Projects/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
-    
-$ make clean
-$ git pull
-$ git submodule sync
-$ git submodule update
-    
-git clone --recursive https://github.com/pfalcon/esp-open-sdk.git /opt/esp-open-sdk
-cd /opt/esp-open-sdk
-make STANDALONE=y
-PATH=/opt/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
-cd /opt/nodemcu-firmware
-make
-```
-
-- https://github.com/pfalcon/esp-open-sdk
-
 ## ESP8266 ROM Bootloader Utility
 
 > A cute Python utility to communicate with the ROM bootloader in Espressif ESP8266. It is intended to be a simple, platform independent, open source replacement for XTCOM.
