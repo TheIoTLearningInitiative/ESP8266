@@ -56,6 +56,8 @@ PID: EA60
 SN: Upload any sketch to obtain it
 ```
 
+After uploading in Linux console:
+
 ```sh
 Archiving built core (caching) in: /tmp/arduino_cache_802597/core/core_esp8266_esp8266_nodemcuv2_CpuFrequency_80,UploadSpeed_115200,FlashSize_4M3M_270be6ff9182869e36429f5bd365089d.a
 Sketch uses 222129 bytes (21%) of program storage space. Maximum is 1044464 bytes.
