@@ -98,6 +98,9 @@ Took 1.64s to erase flash block
 Wrote 477184 bytes at 0x00002000 in 46.1 seconds (82.8 kbit/s)...
 
 Leaving...
+```
+
+```sh
 root@jessie:/home/xe1gyq/esptool# python esptool.py read_mac
 Connecting...
 MAC: 18:f0:14:da:27:2f
