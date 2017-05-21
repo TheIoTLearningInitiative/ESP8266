@@ -51,9 +51,10 @@ password
 root@host:~# minicom -D /dev/ttyUSB0
     
 <reset>
-    
->>> 
-MicroPython v1.5.2-51-g5b3f0b7 on 2016-01-10; ESP module with ESP8266
+
+MicroPython v1.8.7-781-g299c0a39 on 2017-05-21; ESP module with ESP8266
 Type "help()" for more information.
 >>> 
 ```
+
+
