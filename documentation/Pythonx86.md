@@ -31,5 +31,5 @@ user@host:~$ ./micropython -m upip install micropython-pystone
 Installing to: /home/xe1gyq/.micropython/lib/
 Warning: pypi.python.org SSL certificate is not validated
 Installing micropython-pystone 3.4.2-2 from https://pypi.python.org/packages/13/00/8f7c7ab316e8850ea3273956e1370d008cfd36697dec2492388d3b000335/micropython-pystone-3.4.2-2.tar.gz
-xe1gyq@kali:~/NodeMcu/micropython/unix$ 
+user@host:~$ 
 ```
