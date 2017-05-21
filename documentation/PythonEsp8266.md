@@ -79,6 +79,35 @@ Type "help()" for more information.
 >>> esp.osdebug(0)
 ```
 
+```python
+>>> wlan = network.WLAN(network.STA_IF)                                         
+>>> wlan.active(True)                                                           
+mode : sta(5c:cf:7f:dc:41:fa) + softAP(5e:cf:7f:dc:41:fa)                       
+#5 ets_task(4020ed88, 28, 3fff9eb0, 10)                                         
+add if0                                                                         
+>>> wlan.scan()                                                                 
+scandone                                                                        
+[(b'INFINITUM09E845', b'0\x91\x8f\t\xe8E', 1, -75, 3, 0), (b'INFINITUMfjph', b']
+>>> wlan.isconnected()
+False
+>>> wlan.connect('INFINITUMfjph', '1c2899dfda')
+>>> scandone
+state: 0 -> 2 (b0)
+state: 2 -> 3 (0)
+state: 3 -> 5 (10)
+add 0
+aid 2
+cnt
+
+connected with INFINITUMfjph, channel 2
+dhcp client start...
+ip:192.168.1.71,mask:255.255.255.0,gw:192.168.1.254                         
+
+>>> wlan.ifconfig()                                                             
+('192.168.1.71', '255.255.255.0', '192.168.1.254', '8.8.8.8')                   
+>>> 
+```
+
 # Micro Python Pip
 
 ```sh
