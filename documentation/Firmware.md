@@ -1,19 +1,13 @@
 # Firmware
 
-- [Github NodeMcu-Firmware](https://github.com/nodemcu/nodemcu-firmware/releases)
-
-- [ESP8266 Relay Board Homepage](https://github.com/rnplus/ESP8266-RELAYBOARD-V1)
-- [ESP8266 Relay Board Github](https://github.com/rnplus/ESP8266-RELAYBOARD-V1)
-- [A simple connected object with NodeMCU and MQTT](http://www.foobarflies.io/a-simple-connected-object-with-nodemcu-and-mqtt/)
-
-## Build
-
-### NodeMCU Custom Builds
-
 > You customize your NodeMCU firmware and we build it. Just for you. 
 
 - [NodeMCU Custom Builds Homepage](http://nodemcu-build.com/)
 - [Docker NodeMCU build](https://hub.docker.com/r/marcelstoer/nodemcu-build/)
+- [Github NodeMcu-Firmware](https://github.com/nodemcu/nodemcu-firmware/releases)
+
+# ESP Tool
+
 
 ```sh
 xe1gyq@jessie:~$ sudo pip install setuptools
@@ -230,4 +224,8 @@ user@host:~$ make
 
 ## MQTT
 
-http://tuanpm.net/rock-solid-esp8266-wifi-mqtt-restful-client-for-arduino/
+- [ESP8266](http://tuanpm.net/rock-solid-esp8266-wifi-mqtt-restful-client-for-arduino/)
+- [ESP8266 Relay Board Homepage](https://github.com/rnplus/ESP8266-RELAYBOARD-V1)
+- [ESP8266 Relay Board Github](https://github.com/rnplus/ESP8266-RELAYBOARD-V1)
+- [A simple connected object with NodeMCU and MQTT](http://www.foobarflies.io/a-simple-connected-object-with-nodemcu-and-mqtt/)
+
