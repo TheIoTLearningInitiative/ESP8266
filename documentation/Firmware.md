@@ -1,6 +1,6 @@
 # Firmware
 
-> You customize your NodeMCU firmware and we build it. Just for you. [NodeMCU custom builds](https://nodemcu-build.com/)
+> You customize your NodeMCU firmware and we build it. Just for you. [NodeMCU Custom Builds](https://nodemcu-build.com/)
 > Lua based interactive firmware for mcu like esp8266
 
 - [NodeMCU Custom Builds Homepage](http://nodemcu-build.com/)
