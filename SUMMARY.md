@@ -7,6 +7,7 @@
 * [Customization](documentation/Customization.md)
 * [Development Platform](development-platform.md)
   * [Arduino](documentation/Arduino.md)
+    * [Arduino Cloud](documentation/ArduinoCloud.md)
   * [PlatformIO](documentation/PlatformIo.md)
     * [Setup](documentation/PlatformIoSetup.md)
     * [Led](documentation/PIOLed.md)
@@ -20,7 +21,6 @@
   * Mqtt
   * Gps
   * [Arest](documentation/arest.md)
-* [Arduino Cloud](documentation/ArduinoCloud.md)
 * [Projects](documentation/Projects.md)
   * [WiFi](documentation/WiFi.md)
   * [Mqtt](documentation/Mqtt.md)
