@@ -13,3 +13,7 @@ root@host:~# sudo apt-get install make unrar-free autoconf automake libtool gcc 
     flex bison texinfo gawk ncurses-dev libexpat-dev python-dev python python-serial \
     sed git unzip bash help2man wget bzip2
 ```
+
+```sh
+root@host:~# sudo apt-get install libtool-bin
+```
