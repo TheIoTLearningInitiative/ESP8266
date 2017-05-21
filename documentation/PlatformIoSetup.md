@@ -4,9 +4,7 @@ https://raw.githubusercontent.com/platformio/platformio/develop/scripts/99-platf
 
 {% include "git+https://github.com/GitbookIO/documentation.git/README.md#0.0.1" %}
 
-# Linux
-
-# Serial Monitor
+# Linux Serial Connection
 
 - Port: /dev/ttyUSB0
 - Upload Speed: 115200
