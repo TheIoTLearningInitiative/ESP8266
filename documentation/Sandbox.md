@@ -24,15 +24,12 @@
 - https://mcuoneclipse.com/2014/10/15/cheap-and-simple-wifi-with-esp8266-for-the-frdm-board/
 - https://scargill.wordpress.com/?s=esp8266
 
-# Sand
-
 ## Services
 
 > IoT platform for Makers
 
 - http://jumpwire.io/
 - https://github.com/knolleary/pubsubclient/blob/master/examples/mqtt_esp8266/mqtt_esp8266.ino
-- 
 
 ## ESPlorer
 
@@ -53,5 +50,3 @@
 ## Hardware Node-MCU Motor
 
 - http://nodemcu-motor.doit.am/
-
-
