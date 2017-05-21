@@ -1,12 +1,10 @@
 # Micro Python x86
 
 ```sh
-user@host:~$ cd micropython/
-user@host:~$ ls
+user@host:~$ cd micropython/unix
 ```
 
 ```sh
-user@host:~$ cd unix/
 user@host:~$ make axtls
 user@host:~$ make
 ```
