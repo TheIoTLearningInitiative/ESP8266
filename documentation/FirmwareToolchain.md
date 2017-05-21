@@ -8,7 +8,7 @@
 
 > Free and open (as much as possible) integrated SDK for ESP8266/ESP8285 chips
 
-- [](https://github.com/pfalcon/esp-open-sdk)
+- [Free and open (as much as possible) integrated SDK for ESP8266/ESP8285 chips](https://github.com/pfalcon/esp-open-sdk)
 
 ```sh
 root@host:~# sudo apt-get install make unrar-free autoconf automake libtool gcc g++ gperf \
