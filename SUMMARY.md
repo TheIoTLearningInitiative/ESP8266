@@ -21,6 +21,7 @@
     * [Esp8266](documentation/PythonEsp8266.md)
   * [Espressif](documentation/Espressif.md)
   * [NodeMCU](documentation/NodeMcu.md)
+  * [MongooseOS](documentation/MongooseOs.md)
 * [Libraries](documentation/Libraries.md)
 * [Projects](documentation/Projects.md)
   * [WiFi](documentation/WiFi.md)
